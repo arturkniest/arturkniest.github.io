@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Comparação de Cidades</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; max-width: 1200px; margin: 0 auto; padding: 20px; }
+        h1 { color: #2c3e50; text-align: center; }
+        .controls { background-color: #f8f9fa; padding: 15px; border-radius: 8px; margin-bottom: 20px; }
+        #status { margin: 10px 0; padding: 10px; border-radius: 4px; }
+        .loading { background-color: #fff3cd; color: #856404; }
+        .error { background-color: #f8d7da; color: #721c24; }
+        .success { background-color: #d4edda; color: #155724; }
+        #grafico-cidades { width: 100%; height: 600px; border: 1px solid #ddd; border-radius: 8px; margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <h1>Comparação de Cidades - nome_p vs nome_h</h1>
+    
+    <div class="controls">
+        <select id="cidade-dropdown" multiple="multiple" style="width: 100%"></select>
+        <div id="status" class="loading">Carregando dados...</div>
+    </div>
+    
+    <div id="grafico-cidades"></div>
+
+    <script>
+        // Função para atualizar o status
+        function updateStatus(message, type) {
+            const status = document.getElementById('status');
+            status.textContent = message;
+            status.className = type;
+        }
+
+        // Função principal
+        $(document).ready(function() {
+            // Configuração do Select2
+            $('#cidade-dropdown').select2({
+                placeholder: "Selecione as cidades",
+                allowClear: true
+            });
+
+            // Carregar dados
+            loadData();
+        });
+
+        function loadData() {
+            updateStatus("Carregando dados...", "loading");
+            
+            fetch('dados_cidades.json')
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error(`HTTP error! status: ${response.status}`);
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    if (!data || data.length === 0) {
+                        throw new Error("O arquivo está vazio ou mal formatado");
+                    }
+                    
+                    updateStatus("Dados carregados com sucesso!", "success");
+                    
+                    // Preencher o dropdown
+                    $('#cidade-dropdown').empty();
+                    data.forEach(item => {
+                        $('#cidade-dropdown').append(
+                            new Option(item.Cidade, item.Cidade)
+                        );
+                    });
+                    
+                    // Atualizar gráfico quando seleção mudar
+                    $('#cidade-dropdown').on('change', function() {
+                        updateChart(data, $(this).val());
+                    });
+                    
+                    // Mostrar todas as cidades inicialmente
+                    updateChart(data, data.map(item => item.Cidade));
+                })
+                .catch(error => {
+                    console.error("Erro ao carregar dados:", error);
+                    updateStatus(`Erro ao carregar dados: ${error.message}`, "error");
+                });
+        }
+
+        function updateChart(data, selectedCities) {
+            if (!selectedCities || selectedCities.length === 0) {
+                Plotly.newPlot('grafico-cidades', [], {
+                    title: 'Selecione uma ou mais cidades'
+                });
+                return;
+            }
+            
+            const filteredData = data.filter(item => 
+                selectedCities.includes(item.Cidade)
+            );
+            
+            const trace1 = {
+                x: filteredData.map(item => item.Cidade),
+                y: filteredData.map(item => item.Contagem_nome_p),
+                name: 'nome_p',
+                type: 'bar',
+                marker: { color: '#3498db' }
+            };
+            
+            const trace2 = {
+                x: filteredData.map(item => item.Cidade),
+                y: filteredData.map(item => item.Contagem_nome_h),
+                name: 'nome_h',
+                type: 'bar',
+                marker: { color: '#e74c3c' }
+            };
+            
+            Plotly.newPlot('grafico-cidades', [trace1, trace2], {
+                title: 'Comparação de Cidades',
+                barmode: 'group',
+                xaxis: { title: 'Cidade' },
+                yaxis: { title: 'Número de Ocorrências' }
+            });
+        }
+    </script>
+</body>
+</html>
