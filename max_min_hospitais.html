@@ -135,7 +135,7 @@
             status.textContent = 'Carregando dados...';
             status.style.display = 'block';
             
-            fetch('dados_hospitais.json')
+            fetch('max_min_hospitais.json')
                 .then(response => {
                     if (!response.ok) {
                         throw new Error('Erro ao carregar dados: ' + response.status);
