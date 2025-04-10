@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mapa de Internações por Hospital</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .controls {
+            background-color: #f8f9fa;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .control-group {
+            margin-bottom: 15px;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+        select, input {
+            width: 100%;
+            padding: 8px;
+            border-radius: 4px;
+            border: 1px solid #ced4da;
+        }
+        button {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            border-radius: 4px;
+            cursor: pointer;
+            width: 100%;
+            font-size: 16px;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+        #mapa {
+            width: 100%;
+            height: 600px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+        }
+        #status {
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 4px;
+            display: none;
+        }
+        .loading {
+            background-color: #fff3cd;
+            color: #856404;
+            display: block;
+        }
+        .error {
+            background-color: #f8d7da;
+            color: #721c24;
+            display: block;
+        }
+        .select2-container {
+            width: 100% !important;
+            margin-bottom: 15px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Internações por Hospital</h1>
+    
+    <div class="controls">
+        <div class="control-group">
+            <label for="hospital-dropdown">Selecione o Hospital:</label>
+            <select id="hospital-dropdown" style="width: 100%">
+                <option value="">Todos os hospitais</option>
+            </select>
+        </div>
+        
+        <div class="control-group">
+            <label for="minimo-bolhas">Limite mínimo para bolhas:</label>
+            <input type="number" id="minimo-bolhas" placeholder="Digite um limite mínimo" value="1">
+        </div>
+        
+        <div class="control-group">
+            <label for="limite-bolhas">Limite máximo para bolhas:</label>
+            <input type="number" id="limite-bolhas" placeholder="Digite um limite máximo" value="99999999">
+        </div>
+        
+        <button id="botao-aplicar">Aplicar Filtros</button>
+    </div>
+    
+    <div id="status" class="loading">Carregando dados...</div>
+    <div id="mapa"></div>
+
+    <script>
+        // Variáveis globais
+        let dadosHospitais = [];
+        let centroMapa = { lat: -30.0318, lon: -51.2065 };
+        let zoomMapa = 6;
+        
+        // Inicializar a aplicação
+        document.addEventListener('DOMContentLoaded', function() {
+            // Configurar o Select2
+            $('#hospital-dropdown').select2({
+                placeholder: "Selecione um hospital",
+                allowClear: true
+            });
+            
+            // Carregar os dados
+            carregarDados();
+            
+            // Configurar o botão
+            document.getElementById('botao-aplicar').addEventListener('click', atualizarMapa);
+        });
+        
+        // Função para carregar os dados do JSON
+        function carregarDados() {
+            const status = document.getElementById('status');
+            status.className = 'loading';
+            status.textContent = 'Carregando dados...';
+            status.style.display = 'block';
+            
+            fetch('dados_hospitais.json')
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Erro ao carregar dados: ' + response.status);
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    dadosHospitais = data.hospitais;
+                    centroMapa = data.centro || centroMapa;
+                    zoomMapa = data.zoom || zoomMapa;
+                    
+                    // Preencher o dropdown de hospitais
+                    const hospitalDropdown = $('#hospital-dropdown');
+                    const hospitaisUnicos = [...new Set(dadosHospitais.map(h => h.hospital))].sort();
+                    
+                    hospitaisUnicos.forEach(hospital => {
+                        hospitalDropdown.append(new Option(hospital, hospital));
+                    });
+                    
+                    status.style.display = 'none';
+                    atualizarMapa();
+                })
+                .catch(error => {
+                    console.error('Erro:', error);
+                    status.className = 'error';
+                    status.textContent = 'Erro ao carregar dados: ' + error.message;
+                });
+        }
+        
+        // Função para atualizar o mapa com os filtros
+        function atualizarMapa() {
+            const minimo = parseInt(document.getElementById('minimo-bolhas').value) || 1;
+            const maximo = parseInt(document.getElementById('limite-bolhas').value) || 99999999;
+            const hospitalSelecionado = $('#hospital-dropdown').val();
+            
+            // Filtrar os dados
+            let dadosFiltrados = dadosHospitais.filter(h => 
+                h.counts >= minimo && h.counts <= maximo
+            );
+            
+            if (hospitalSelecionado) {
+                dadosFiltrados = dadosFiltrados.filter(h => h.hospital === hospitalSelecionado);
+            }
+            
+            // Criar o gráfico
+            const data = [{
+                type: 'scattermapbox',
+                lat: dadosFiltrados.map(h => h.latitude),
+                lon: dadosFiltrados.map(h => h.longitude),
+                mode: 'markers',
+                marker: {
+                    size: dadosFiltrados.map(h => Math.min(50, 5 + Math.sqrt(h.counts) * 2)),
+                    color: dadosFiltrados.map(h => h.counts),
+                    colorscale: 'Viridis',
+                    opacity: 0.8,
+                    showscale: true,
+                    colorbar: {
+                        title: 'Nº de Internações'
+                    }
+                },
+                text: dadosFiltrados.map(h => 
+                    `<b>${h.hospital}</b><br>Cidade: ${h.cidade}<br>Internações: ${h.counts}`
+                ),
+                hoverinfo: 'text'
+            }];
+            
+            const layout = {
+                mapbox: {
+                    style: 'carto-positron',
+                    center: centroMapa,
+                    zoom: zoomMapa
+                },
+                margin: { t: 30, b: 0, l: 0, r: 0 },
+                title: 'Internações por Hospital',
+                width: 900,
+                height: 600
+            };
+            
+            Plotly.newPlot('mapa', data, layout);
+        }
+    </script>
+</body>
+</html>
