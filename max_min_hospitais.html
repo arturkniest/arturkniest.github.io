@@ -142,7 +142,7 @@
                     }
                     return response.json();
                 })
-                .then(data => {
+                .then(data => { 
                     dadosHospitais = data.hospitais;
                     centroMapa = data.centro || centroMapa;
                     zoomMapa = data.zoom || zoomMapa;
