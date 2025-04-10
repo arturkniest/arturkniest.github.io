@@ -1,0 +1,1353 @@
+{
+  "hospitais": [
+    {
+      "longitude": -57.0853,
+      "latitude": -29.7614,
+      "counts": 4614,
+      "nome_h": "Uruguaiana"
+    },
+    {
+      "longitude": -56.5515,
+      "latitude": -29.1311,
+      "counts": 1382,
+      "nome_h": "Itaqui"
+    },
+    {
+      "longitude": -56.4483,
+      "latitude": -30.384,
+      "counts": 989,
+      "nome_h": "Quaraí"
+    },
+    {
+      "longitude": -56.0036,
+      "latitude": -28.6578,
+      "counts": 4916,
+      "nome_h": "São Borja"
+    },
+    {
+      "longitude": -55.7949,
+      "latitude": -29.7902,
+      "counts": 3389,
+      "nome_h": "Alegrete"
+    },
+    {
+      "longitude": -55.5392,
+      "latitude": -30.8773,
+      "counts": 3037,
+      "nome_h": "Sant'Ana do Livramento"
+    },
+    {
+      "longitude": -55.1379,
+      "latitude": -27.9082,
+      "counts": 80,
+      "nome_h": "Porto Xavier"
+    },
+    {
+      "longitude": -55.1253,
+      "latitude": -29.5547,
+      "counts": 466,
+      "nome_h": "São Francisco de Assis"
+    },
+    {
+      "longitude": -55.0266,
+      "latitude": -28.1297,
+      "counts": 102,
+      "nome_h": "Roque Gonzales"
+    },
+    {
+      "longitude": -55.01,
+      "latitude": -27.8569,
+      "counts": 170,
+      "nome_h": "Porto Lucena"
+    },
+    {
+      "longitude": -54.9559,
+      "latitude": -28.412,
+      "counts": 2209,
+      "nome_h": "São Luiz Gonzaga"
+    },
+    {
+      "longitude": -54.9404,
+      "latitude": -28.0195,
+      "counts": 497,
+      "nome_h": "São Paulo das Missões"
+    },
+    {
+      "longitude": -54.9221,
+      "latitude": -30.2515,
+      "counts": 1983,
+      "nome_h": "Rosário do Sul"
+    },
+    {
+      "longitude": -54.8666,
+      "latitude": -29.1897,
+      "counts": 2828,
+      "nome_h": "Santiago"
+    },
+    {
+      "longitude": -54.8416,
+      "latitude": -27.9888,
+      "counts": 368,
+      "nome_h": "Campina das Missões"
+    },
+    {
+      "longitude": -54.822,
+      "latitude": -29.8883,
+      "counts": 428,
+      "nome_h": "Cacequi"
+    },
+    {
+      "longitude": -54.7649,
+      "latitude": -27.6579,
+      "counts": 257,
+      "nome_h": "Alecrim"
+    },
+    {
+      "longitude": -54.7517,
+      "latitude": -27.9515,
+      "counts": 488,
+      "nome_h": "Cândido Godói"
+    },
+    {
+      "longitude": -54.7428,
+      "latitude": -28.1463,
+      "counts": 568,
+      "nome_h": "Cerro Largo"
+    },
+    {
+      "longitude": -54.703,
+      "latitude": -29.4936,
+      "counts": 672,
+      "nome_h": "Jaguari"
+    },
+    {
+      "longitude": -54.6826,
+      "latitude": -29.6882,
+      "counts": 63,
+      "nome_h": "São Vicente do Sul"
+    },
+    {
+      "longitude": -54.6694,
+      "latitude": -30.9756,
+      "counts": 1232,
+      "nome_h": "Dom Pedrito"
+    },
+    {
+      "longitude": -54.662,
+      "latitude": -27.8263,
+      "counts": 938,
+      "nome_h": "Santo Cristo"
+    },
+    {
+      "longitude": -54.6454,
+      "latitude": -28.2905,
+      "counts": 130,
+      "nome_h": "Caibaté"
+    },
+    {
+      "longitude": -54.5629,
+      "latitude": -28.1491,
+      "counts": 368,
+      "nome_h": "Guarani das Missões"
+    },
+    {
+      "longitude": -54.5559,
+      "latitude": -28.556,
+      "counts": 239,
+      "nome_h": "São Miguel das Missões"
+    },
+    {
+      "longitude": -54.4814,
+      "latitude": -27.7598,
+      "counts": 113,
+      "nome_h": "Tuparendi"
+    },
+    {
+      "longitude": -54.4796,
+      "latitude": -27.8702,
+      "counts": 10524,
+      "nome_h": "Santa Rosa"
+    },
+    {
+      "longitude": -54.4641,
+      "latitude": -29.5649,
+      "counts": 29,
+      "nome_h": "Mata"
+    },
+    {
+      "longitude": -54.4439,
+      "latitude": -27.6573,
+      "counts": 367,
+      "nome_h": "Tucunduva"
+    },
+    {
+      "longitude": -54.3517,
+      "latitude": -28.0297,
+      "counts": 522,
+      "nome_h": "Giruá"
+    },
+    {
+      "longitude": -54.3217,
+      "latitude": -30.3337,
+      "counts": 21480,
+      "nome_h": "São Gabriel"
+    },
+    {
+      "longitude": -54.3053,
+      "latitude": -27.6282,
+      "counts": 359,
+      "nome_h": "Horizontina"
+    },
+    {
+      "longitude": -54.2668,
+      "latitude": -28.3001,
+      "counts": 4180,
+      "nome_h": "Santo Ângelo"
+    },
+    {
+      "longitude": -54.2357,
+      "latitude": -27.78,
+      "counts": 2181,
+      "nome_h": "Três de Maio"
+    },
+    {
+      "longitude": -54.1855,
+      "latitude": -29.6202,
+      "counts": 501,
+      "nome_h": "São Pedro do Sul"
+    },
+    {
+      "longitude": -54.1615,
+      "latitude": -31.8665,
+      "counts": 198,
+      "nome_h": "Aceguá"
+    },
+    {
+      "longitude": -54.1082,
+      "latitude": -27.6693,
+      "counts": 302,
+      "nome_h": "Boa Vista do Buricá"
+    },
+    {
+      "longitude": -54.0999,
+      "latitude": -31.3297,
+      "counts": 9937,
+      "nome_h": "Bagé"
+    },
+    {
+      "longitude": -54.0994,
+      "latitude": -27.4999,
+      "counts": 541,
+      "nome_h": "Crissiumal"
+    },
+    {
+      "longitude": -53.9883,
+      "latitude": -28.5172,
+      "counts": 73,
+      "nome_h": "Augusto Pestana"
+    },
+    {
+      "longitude": -53.9699,
+      "latitude": -27.7112,
+      "counts": 464,
+      "nome_h": "São Martinho"
+    },
+    {
+      "longitude": -53.9695,
+      "latitude": -27.5691,
+      "counts": 80,
+      "nome_h": "Humaitá"
+    },
+    {
+      "longitude": -53.9419,
+      "latitude": -27.923,
+      "counts": 44,
+      "nome_h": "Chiapetta"
+    },
+    {
+      "longitude": -53.9296,
+      "latitude": -27.4555,
+      "counts": 2847,
+      "nome_h": "Três Passos"
+    },
+    {
+      "longitude": -53.92,
+      "latitude": -28.388,
+      "counts": 11258,
+      "nome_h": "Ijuí"
+    },
+    {
+      "longitude": -53.8931,
+      "latitude": -30.8071,
+      "counts": 75,
+      "nome_h": "Lavras do Sul"
+    },
+    {
+      "longitude": -53.8445,
+      "latitude": -29.0858,
+      "counts": 761,
+      "nome_h": "Tupanciretã"
+    },
+    {
+      "longitude": -53.8149,
+      "latitude": -29.6868,
+      "counts": 53434,
+      "nome_h": "Santa Maria"
+    },
+    {
+      "longitude": -53.8052,
+      "latitude": -27.6792,
+      "counts": 126,
+      "nome_h": "Campo Novo"
+    },
+    {
+      "longitude": -53.7776,
+      "latitude": -27.8526,
+      "counts": 1638,
+      "nome_h": "Santo Augusto"
+    },
+    {
+      "longitude": -53.7757,
+      "latitude": -28.2342,
+      "counts": 158,
+      "nome_h": "Ajuricaba"
+    },
+    {
+      "longitude": -53.7585,
+      "latitude": -27.3711,
+      "counts": 4767,
+      "nome_h": "Tenente Portela"
+    },
+    {
+      "longitude": -53.7022,
+      "latitude": -27.7197,
+      "counts": 98,
+      "nome_h": "Coronel Bicaco"
+    },
+    {
+      "longitude": -53.6772,
+      "latitude": -29.2299,
+      "counts": 160,
+      "nome_h": "Júlio de Castilhos"
+    },
+    {
+      "longitude": -53.6579,
+      "latitude": -28.4283,
+      "counts": 20,
+      "nome_h": "Pejuçara"
+    },
+    {
+      "longitude": -53.6048,
+      "latitude": -28.645,
+      "counts": 2089,
+      "nome_h": "Cruz Alta"
+    },
+    {
+      "longitude": -53.5842,
+      "latitude": -29.5232,
+      "counts": 14,
+      "nome_h": "Ivorá"
+    },
+    {
+      "longitude": -53.5603,
+      "latitude": -30.1643,
+      "counts": 1954,
+      "nome_h": "São Sepé"
+    },
+    {
+      "longitude": -53.558,
+      "latitude": -27.3596,
+      "counts": 678,
+      "nome_h": "Palmitinho"
+    },
+    {
+      "longitude": -53.5023,
+      "latitude": -28.2833,
+      "counts": 1019,
+      "nome_h": "Panambi"
+    },
+    {
+      "longitude": -53.4959,
+      "latitude": -30.0035,
+      "counts": 33,
+      "nome_h": "Formigueiro"
+    },
+    {
+      "longitude": -53.4905,
+      "latitude": -28.2075,
+      "counts": 269,
+      "nome_h": "Condor"
+    },
+    {
+      "longitude": -53.4827,
+      "latitude": -30.5144,
+      "counts": 878,
+      "nome_h": "Caçapava do Sul"
+    },
+    {
+      "longitude": -53.4689,
+      "latitude": -29.471,
+      "counts": 327,
+      "nome_h": "Nova Palma"
+    },
+    {
+      "longitude": -53.4484,
+      "latitude": -29.5788,
+      "counts": 2410,
+      "nome_h": "Faxinal do Soturno"
+    },
+    {
+      "longitude": -53.4439,
+      "latitude": -29.6194,
+      "counts": 346,
+      "nome_h": "São João do Polêsine"
+    },
+    {
+      "longitude": -53.4257,
+      "latitude": -27.2791,
+      "counts": 728,
+      "nome_h": "Caiçara"
+    },
+    {
+      "longitude": -53.4026,
+      "latitude": -27.4829,
+      "counts": 1091,
+      "nome_h": "Seberi"
+    },
+    {
+      "longitude": -53.3958,
+      "latitude": -27.3586,
+      "counts": 1980,
+      "nome_h": "Frederico Westphalen"
+    },
+    {
+      "longitude": -53.3944,
+      "latitude": -32.024,
+      "counts": 23,
+      "nome_h": "Herval"
+    },
+    {
+      "longitude": -53.3807,
+      "latitude": -29.8188,
+      "counts": 775,
+      "nome_h": "Restinga Sêca"
+    },
+    {
+      "longitude": -53.3798,
+      "latitude": -31.5794,
+      "counts": 193,
+      "nome_h": "Pinheiro Machado"
+    },
+    {
+      "longitude": -53.377,
+      "latitude": -32.5604,
+      "counts": 1311,
+      "nome_h": "Jaguarão"
+    },
+    {
+      "longitude": -53.3717,
+      "latitude": -33.525,
+      "counts": 792,
+      "nome_h": "Santa Vitória do Palmar"
+    },
+    {
+      "longitude": -53.3206,
+      "latitude": -29.345,
+      "counts": 11,
+      "nome_h": "Pinhal Grande"
+    },
+    {
+      "longitude": -53.3134,
+      "latitude": -27.9007,
+      "counts": 2353,
+      "nome_h": "Palmeira das Missões"
+    },
+    {
+      "longitude": -53.2762,
+      "latitude": -27.6347,
+      "counts": 311,
+      "nome_h": "Jaboticaba"
+    },
+    {
+      "longitude": -53.2543,
+      "latitude": -27.1951,
+      "counts": 211,
+      "nome_h": "Iraí"
+    },
+    {
+      "longitude": -53.2515,
+      "latitude": -29.6447,
+      "counts": 973,
+      "nome_h": "Agudo"
+    },
+    {
+      "longitude": -53.251,
+      "latitude": -28.3653,
+      "counts": 335,
+      "nome_h": "Santa Bárbara do Sul"
+    },
+    {
+      "longitude": -53.2133,
+      "latitude": -29.0951,
+      "counts": 168,
+      "nome_h": "Salto do Jacuí"
+    },
+    {
+      "longitude": -53.183,
+      "latitude": -27.3607,
+      "counts": 210,
+      "nome_h": "Ametista do Sul"
+    },
+    {
+      "longitude": -53.1706,
+      "latitude": -27.4742,
+      "counts": 1738,
+      "nome_h": "Rodeio Bonito"
+    },
+    {
+      "longitude": -53.144,
+      "latitude": -29.6717,
+      "counts": 66,
+      "nome_h": "Paraíso do Sul"
+    },
+    {
+      "longitude": -53.1011,
+      "latitude": -28.7466,
+      "counts": 129,
+      "nome_h": "Quinze de Novembro"
+    },
+    {
+      "longitude": -53.0973,
+      "latitude": -31.4473,
+      "counts": 1183,
+      "nome_h": "Piratini"
+    },
+    {
+      "longitude": -53.097,
+      "latitude": -28.3941,
+      "counts": 37,
+      "nome_h": "Saldanha Marinho"
+    },
+    {
+      "longitude": -53.0966,
+      "latitude": -29.3348,
+      "counts": 615,
+      "nome_h": "Arroio do Tigre"
+    },
+    {
+      "longitude": -53.0961,
+      "latitude": -28.6302,
+      "counts": 831,
+      "nome_h": "Ibirubá"
+    },
+    {
+      "longitude": -53.0862,
+      "latitude": -32.2327,
+      "counts": 439,
+      "nome_h": "Arroio Grande"
+    },
+    {
+      "longitude": -53.0665,
+      "latitude": -28.0559,
+      "counts": 371,
+      "nome_h": "Chapada"
+    },
+    {
+      "longitude": -53.0575,
+      "latitude": -27.3297,
+      "counts": 7176,
+      "nome_h": "Planalto"
+    },
+    {
+      "longitude": -53.0341,
+      "latitude": -27.2502,
+      "counts": 498,
+      "nome_h": "Alpestre"
+    },
+    {
+      "longitude": -53.0326,
+      "latitude": -29.4194,
+      "counts": 1984,
+      "nome_h": "Sobradinho"
+    },
+    {
+      "longitude": -52.9938,
+      "latitude": -27.732,
+      "counts": 280,
+      "nome_h": "Constantina"
+    },
+    {
+      "longitude": -52.9767,
+      "latitude": -29.3523,
+      "counts": 82,
+      "nome_h": "Segredo"
+    },
+    {
+      "longitude": -52.9498,
+      "latitude": -28.6294,
+      "counts": 60,
+      "nome_h": "Selbach"
+    },
+    {
+      "longitude": -52.9231,
+      "latitude": -27.942,
+      "counts": 2648,
+      "nome_h": "Sarandi"
+    },
+    {
+      "longitude": -52.9081,
+      "latitude": -27.8315,
+      "counts": 102,
+      "nome_h": "Rondinha"
+    },
+    {
+      "longitude": -52.8956,
+      "latitude": -27.5239,
+      "counts": 481,
+      "nome_h": "Trindade do Sul"
+    },
+    {
+      "longitude": -52.8928,
+      "latitude": -30.033,
+      "counts": 8632,
+      "nome_h": "Cachoeira do Sul"
+    },
+    {
+      "longitude": -52.8613,
+      "latitude": -28.6277,
+      "counts": 562,
+      "nome_h": "Tapera"
+    },
+    {
+      "longitude": -52.8461,
+      "latitude": -28.7286,
+      "counts": 911,
+      "nome_h": "Espumoso"
+    },
+    {
+      "longitude": -52.8184,
+      "latitude": -31.8642,
+      "counts": 242,
+      "nome_h": "Pedro Osório"
+    },
+    {
+      "longitude": -52.8182,
+      "latitude": -28.4548,
+      "counts": 781,
+      "nome_h": "Não-Me-Toque"
+    },
+    {
+      "longitude": -52.8056,
+      "latitude": -27.7758,
+      "counts": 1084,
+      "nome_h": "Ronda Alta"
+    },
+    {
+      "longitude": -52.7933,
+      "latitude": -28.2958,
+      "counts": 3847,
+      "nome_h": "Carazinho"
+    },
+    {
+      "longitude": -52.7895,
+      "latitude": -29.6684,
+      "counts": 1574,
+      "nome_h": "Candelária"
+    },
+    {
+      "longitude": -52.7756,
+      "latitude": -27.3689,
+      "counts": 1059,
+      "nome_h": "Nonoai"
+    },
+    {
+      "longitude": -52.6839,
+      "latitude": -29.5967,
+      "counts": 398,
+      "nome_h": "Vale do Sol"
+    },
+    {
+      "longitude": -52.6783,
+      "latitude": -31.396,
+      "counts": 1855,
+      "nome_h": "Canguçu"
+    },
+    {
+      "longitude": -52.6248,
+      "latitude": -27.7174,
+      "counts": 90,
+      "nome_h": "Campinas do Sul"
+    },
+    {
+      "longitude": -52.5304,
+      "latitude": -29.5357,
+      "counts": 448,
+      "nome_h": "Sinimbu"
+    },
+    {
+      "longitude": -52.5204,
+      "latitude": -30.543,
+      "counts": 1226,
+      "nome_h": "Encruzilhada do Sul"
+    },
+    {
+      "longitude": -52.5152,
+      "latitude": -29.7184,
+      "counts": 6392,
+      "nome_h": "Vera Cruz"
+    },
+    {
+      "longitude": -52.5131,
+      "latitude": -28.8306,
+      "counts": 7002,
+      "nome_h": "Soledade"
+    },
+    {
+      "longitude": -52.4343,
+      "latitude": -29.722,
+      "counts": 14151,
+      "nome_h": "Santa Cruz do Sul"
+    },
+    {
+      "longitude": -52.4284,
+      "latitude": -29.3046,
+      "counts": 155,
+      "nome_h": "Boqueirão do Leão"
+    },
+    {
+      "longitude": -52.4091,
+      "latitude": -28.2576,
+      "counts": 52269,
+      "nome_h": "Passo Fundo"
+    },
+    {
+      "longitude": -52.3711,
+      "latitude": -29.988,
+      "counts": 3047,
+      "nome_h": "Rio Pardo"
+    },
+    {
+      "longitude": -52.3371,
+      "latitude": -31.7649,
+      "counts": 15271,
+      "nome_h": "Pelotas"
+    },
+    {
+      "longitude": -52.3197,
+      "latitude": -29.2441,
+      "counts": 547,
+      "nome_h": "Progresso"
+    },
+    {
+      "longitude": -52.2975,
+      "latitude": -27.3978,
+      "counts": 359,
+      "nome_h": "Aratiba"
+    },
+    {
+      "longitude": -52.2697,
+      "latitude": -27.6364,
+      "counts": 10513,
+      "nome_h": "Erechim"
+    },
+    {
+      "longitude": -52.2588,
+      "latitude": -27.9798,
+      "counts": 232,
+      "nome_h": "Sertão"
+    },
+    {
+      "longitude": -52.2294,
+      "latitude": -27.8911,
+      "counts": 1033,
+      "nome_h": "Getúlio Vargas"
+    },
+    {
+      "longitude": -52.1986,
+      "latitude": -28.4498,
+      "counts": 5150,
+      "nome_h": "Marau"
+    },
+    {
+      "longitude": -52.1932,
+      "latitude": -29.6143,
+      "counts": 1884,
+      "nome_h": "Venâncio Aires"
+    },
+    {
+      "longitude": -52.1781,
+      "latitude": -28.8737,
+      "counts": 522,
+      "nome_h": "Arvorezinha"
+    },
+    {
+      "longitude": -52.1569,
+      "latitude": -29.0045,
+      "counts": 184,
+      "nome_h": "Putinga"
+    },
+    {
+      "longitude": -52.1258,
+      "latitude": -28.9282,
+      "counts": 63,
+      "nome_h": "Ilópolis"
+    },
+    {
+      "longitude": -52.1217,
+      "latitude": -27.4362,
+      "counts": 84,
+      "nome_h": "Severiano de Almeida"
+    },
+    {
+      "longitude": -52.1071,
+      "latitude": -32.0349,
+      "counts": 9786,
+      "nome_h": "Rio Grande"
+    },
+    {
+      "longitude": -52.1026,
+      "latitude": -30.7004,
+      "counts": 295,
+      "nome_h": "Dom Feliciano"
+    },
+    {
+      "longitude": -52.0973,
+      "latitude": -29.3311,
+      "counts": 521,
+      "nome_h": "Marques de Souza"
+    },
+    {
+      "longitude": -52.0915,
+      "latitude": -27.5856,
+      "counts": 175,
+      "nome_h": "Gaurama"
+    },
+    {
+      "longitude": -52.0331,
+      "latitude": -32.0151,
+      "counts": 513,
+      "nome_h": "São José do Norte"
+    },
+    {
+      "longitude": -52.0319,
+      "latitude": -29.2182,
+      "counts": 350,
+      "nome_h": "Nova Bréscia"
+    },
+    {
+      "longitude": -52.0211,
+      "latitude": -27.5716,
+      "counts": 112,
+      "nome_h": "Viadutos"
+    },
+    {
+      "longitude": -52.0102,
+      "latitude": -28.9698,
+      "counts": 255,
+      "nome_h": "Anta Gorda"
+    },
+    {
+      "longitude": -52.0097,
+      "latitude": -28.0652,
+      "counts": 4146,
+      "nome_h": "Tapejara"
+    },
+    {
+      "longitude": -51.9928,
+      "latitude": -29.5148,
+      "counts": 1161,
+      "nome_h": "Cruzeiro do Sul"
+    },
+    {
+      "longitude": -51.9815,
+      "latitude": -28.5605,
+      "counts": 240,
+      "nome_h": "Casca"
+    },
+    {
+      "longitude": -51.9715,
+      "latitude": -31.3564,
+      "counts": 1531,
+      "nome_h": "São Lourenço do Sul"
+    },
+    {
+      "longitude": -51.9644,
+      "latitude": -29.4591,
+      "counts": 25610,
+      "nome_h": "Lajeado"
+    },
+    {
+      "longitude": -51.9557,
+      "latitude": -29.4014,
+      "counts": 1731,
+      "nome_h": "Arroio do Meio"
+    },
+    {
+      "longitude": -51.9495,
+      "latitude": -29.5002,
+      "counts": 5019,
+      "nome_h": "Estrela"
+    },
+    {
+      "longitude": -51.9456,
+      "latitude": -29.6071,
+      "counts": 764,
+      "nome_h": "Bom Retiro do Sul"
+    },
+    {
+      "longitude": -51.9352,
+      "latitude": -28.7126,
+      "counts": 569,
+      "nome_h": "Serafina Corrêa"
+    },
+    {
+      "longitude": -51.9095,
+      "latitude": -27.4676,
+      "counts": 105,
+      "nome_h": "Marcelino Ramos"
+    },
+    {
+      "longitude": -51.8895,
+      "latitude": -28.8399,
+      "counts": 807,
+      "nome_h": "Guaporé"
+    },
+    {
+      "longitude": -51.8714,
+      "latitude": -29.163,
+      "counts": 209,
+      "nome_h": "Muçum"
+    },
+    {
+      "longitude": -51.8703,
+      "latitude": -29.2351,
+      "counts": 2832,
+      "nome_h": "Encantado"
+    },
+    {
+      "longitude": -51.8658,
+      "latitude": -29.2884,
+      "counts": 38,
+      "nome_h": "Roca Sales"
+    },
+    {
+      "longitude": -51.8653,
+      "latitude": -29.7943,
+      "counts": 638,
+      "nome_h": "Taquari"
+    },
+    {
+      "longitude": -51.8482,
+      "latitude": -28.3849,
+      "counts": 343,
+      "nome_h": "David Canabarro"
+    },
+    {
+      "longitude": -51.8396,
+      "latitude": -28.983,
+      "counts": 185,
+      "nome_h": "Dois Lajeados"
+    },
+    {
+      "longitude": -51.8079,
+      "latitude": -27.947,
+      "counts": 1951,
+      "nome_h": "Sananduva"
+    },
+    {
+      "longitude": -51.8044,
+      "latitude": -29.4482,
+      "counts": 1810,
+      "nome_h": "Teutônia"
+    },
+    {
+      "longitude": -51.8043,
+      "latitude": -30.8489,
+      "counts": 4982,
+      "nome_h": "Camaquã"
+    },
+    {
+      "longitude": -51.802,
+      "latitude": -27.6325,
+      "counts": 363,
+      "nome_h": "Maximiliano de Almeida"
+    },
+    {
+      "longitude": -51.7896,
+      "latitude": -28.5964,
+      "counts": 73,
+      "nome_h": "Paraí"
+    },
+    {
+      "longitude": -51.763,
+      "latitude": -27.7075,
+      "counts": 177,
+      "nome_h": "Paim Filho"
+    },
+    {
+      "longitude": -51.7251,
+      "latitude": -29.9716,
+      "counts": 8386,
+      "nome_h": "São Jerônimo"
+    },
+    {
+      "longitude": -51.7075,
+      "latitude": -29.9291,
+      "counts": 8496,
+      "nome_h": "Triunfo"
+    },
+    {
+      "longitude": -51.7072,
+      "latitude": -28.7291,
+      "counts": 497,
+      "nome_h": "Nova Bassano"
+    },
+    {
+      "longitude": -51.6948,
+      "latitude": -28.5421,
+      "counts": 8,
+      "nome_h": "Guabiju"
+    },
+    {
+      "longitude": -51.6289,
+      "latitude": -29.9625,
+      "counts": 885,
+      "nome_h": "Charqueadas"
+    },
+    {
+      "longitude": -51.6113,
+      "latitude": -28.7799,
+      "counts": 1194,
+      "nome_h": "Nova Prata"
+    },
+    {
+      "longitude": -51.5966,
+      "latitude": -27.7707,
+      "counts": 951,
+      "nome_h": "São José do Ouro"
+    },
+    {
+      "longitude": -51.5516,
+      "latitude": -28.9312,
+      "counts": 1586,
+      "nome_h": "Veranópolis"
+    },
+    {
+      "longitude": -51.5352,
+      "latitude": -29.259,
+      "counts": 2032,
+      "nome_h": "Garibaldi"
+    },
+    {
+      "longitude": -51.5248,
+      "latitude": -28.2093,
+      "counts": 1287,
+      "nome_h": "Lagoa Vermelha"
+    },
+    {
+      "longitude": -51.5165,
+      "latitude": -29.1662,
+      "counts": 7631,
+      "nome_h": "Bento Gonçalves"
+    },
+    {
+      "longitude": -51.5077,
+      "latitude": -29.4386,
+      "counts": 34,
+      "nome_h": "Salvador do Sul"
+    },
+    {
+      "longitude": -51.5028,
+      "latitude": -29.2969,
+      "counts": 419,
+      "nome_h": "Carlos Barbosa"
+    },
+    {
+      "longitude": -51.4679,
+      "latitude": -29.6824,
+      "counts": 5018,
+      "nome_h": "Montenegro"
+    },
+    {
+      "longitude": -51.3749,
+      "latitude": -29.5885,
+      "counts": 268,
+      "nome_h": "São Sebastião do Caí"
+    },
+    {
+      "longitude": -51.3548,
+      "latitude": -29.4856,
+      "counts": 310,
+      "nome_h": "Bom Princípio"
+    },
+    {
+      "longitude": -51.3419,
+      "latitude": -29.2227,
+      "counts": 4851,
+      "nome_h": "Farroupilha"
+    },
+    {
+      "longitude": -51.3233,
+      "latitude": -30.1086,
+      "counts": 2413,
+      "nome_h": "Guaíba"
+    },
+    {
+      "longitude": -51.3032,
+      "latitude": -29.4527,
+      "counts": 194,
+      "nome_h": "Feliz"
+    },
+    {
+      "longitude": -51.2883,
+      "latitude": -28.8565,
+      "counts": 948,
+      "nome_h": "Antônio Prado"
+    },
+    {
+      "longitude": -51.2429,
+      "latitude": -29.7015,
+      "counts": 1034,
+      "nome_h": "Portão"
+    },
+    {
+      "longitude": -51.2065,
+      "latitude": -30.0318,
+      "counts": 265827,
+      "nome_h": "Porto Alegre"
+    },
+    {
+      "longitude": -51.1875,
+      "latitude": -29.0261,
+      "counts": 274,
+      "nome_h": "Flores da Cunha"
+    },
+    {
+      "longitude": -51.1857,
+      "latitude": -29.9128,
+      "counts": 38827,
+      "nome_h": "Canoas"
+    },
+    {
+      "longitude": -51.1843,
+      "latitude": -29.6535,
+      "counts": 773,
+      "nome_h": "Estância Velha"
+    },
+    {
+      "longitude": -51.1841,
+      "latitude": -29.852,
+      "counts": 6465,
+      "nome_h": "Esteio"
+    },
+    {
+      "longitude": -51.1792,
+      "latitude": -29.1629,
+      "counts": 33293,
+      "nome_h": "Caxias do Sul"
+    },
+    {
+      "longitude": -51.1533,
+      "latitude": -29.5995,
+      "counts": 876,
+      "nome_h": "Ivoti"
+    },
+    {
+      "longitude": -51.1498,
+      "latitude": -29.7545,
+      "counts": 10723,
+      "nome_h": "São Leopoldo"
+    },
+    {
+      "longitude": -51.145,
+      "latitude": -29.8276,
+      "counts": 4760,
+      "nome_h": "Sapucaia do Sul"
+    },
+    {
+      "longitude": -51.1328,
+      "latitude": -29.6875,
+      "counts": 14535,
+      "nome_h": "Novo Hamburgo"
+    },
+    {
+      "longitude": -51.1136,
+      "latitude": -29.3741,
+      "counts": 715,
+      "nome_h": "Nova Petrópolis"
+    },
+    {
+      "longitude": -51.1016,
+      "latitude": -29.9472,
+      "counts": 26160,
+      "nome_h": "Cachoeirinha"
+    },
+    {
+      "longitude": -51.0898,
+      "latitude": -29.5836,
+      "counts": 1090,
+      "nome_h": "Dois Irmãos"
+    },
+    {
+      "longitude": -51.0809,
+      "latitude": -29.9914,
+      "counts": 18420,
+      "nome_h": "Alvorada"
+    },
+    {
+      "longitude": -51.0696,
+      "latitude": -28.9677,
+      "counts": 386,
+      "nome_h": "São Marcos"
+    },
+    {
+      "longitude": -51.0606,
+      "latitude": -29.6747,
+      "counts": 3186,
+      "nome_h": "Campo Bom"
+    },
+    {
+      "longitude": -51.0194,
+      "latitude": -30.0819,
+      "counts": 6533,
+      "nome_h": "Viamão"
+    },
+    {
+      "longitude": -51.0064,
+      "latitude": -29.6349,
+      "counts": 4361,
+      "nome_h": "Sapiranga"
+    },
+    {
+      "longitude": -50.9869,
+      "latitude": -29.9413,
+      "counts": 7261,
+      "nome_h": "Gravataí"
+    },
+    {
+      "longitude": -50.9418,
+      "latitude": -28.5079,
+      "counts": 6323,
+      "nome_h": "Vacaria"
+    },
+    {
+      "longitude": -50.9167,
+      "latitude": -31.1054,
+      "counts": 22,
+      "nome_h": "Mostardas"
+    },
+    {
+      "longitude": -50.8762,
+      "latitude": -29.3734,
+      "counts": 1971,
+      "nome_h": "Gramado"
+    },
+    {
+      "longitude": -50.8312,
+      "latitude": -29.6243,
+      "counts": 5699,
+      "nome_h": "Parobé"
+    },
+    {
+      "longitude": -50.8119,
+      "latitude": -29.356,
+      "counts": 1252,
+      "nome_h": "Canela"
+    },
+    {
+      "longitude": -50.7919,
+      "latitude": -29.5693,
+      "counts": 1371,
+      "nome_h": "Igrejinha"
+    },
+    {
+      "longitude": -50.7753,
+      "latitude": -29.6505,
+      "counts": 3106,
+      "nome_h": "Taquara"
+    },
+    {
+      "longitude": -50.7739,
+      "latitude": -29.5137,
+      "counts": 747,
+      "nome_h": "Três Coroas"
+    },
+    {
+      "longitude": -50.5828,
+      "latitude": -29.4404,
+      "counts": 2848,
+      "nome_h": "São Francisco de Paula"
+    },
+    {
+      "longitude": -50.5819,
+      "latitude": -29.6462,
+      "counts": 1243,
+      "nome_h": "Rolante"
+    },
+    {
+      "longitude": -50.5175,
+      "latitude": -29.8268,
+      "counts": 1198,
+      "nome_h": "Santo Antônio da Patrulha"
+    },
+    {
+      "longitude": -50.5103,
+      "latitude": -30.2535,
+      "counts": 239,
+      "nome_h": "Palmares do Sul"
+    },
+    {
+      "longitude": -50.4488,
+      "latitude": -29.639,
+      "counts": 49,
+      "nome_h": "Riozinho"
+    },
+    {
+      "longitude": -50.4295,
+      "latitude": -28.6697,
+      "counts": 1525,
+      "nome_h": "Bom Jesus"
+    },
+    {
+      "longitude": -50.3637,
+      "latitude": -28.8811,
+      "counts": 13,
+      "nome_h": "Jaquirana"
+    },
+    {
+      "longitude": -50.2667,
+      "latitude": -29.8881,
+      "counts": 2883,
+      "nome_h": "Osório"
+    },
+    {
+      "longitude": -50.1465,
+      "latitude": -29.0474,
+      "counts": 36,
+      "nome_h": "Cambará do Sul"
+    },
+    {
+      "longitude": -50.1322,
+      "latitude": -29.9841,
+      "counts": 7633,
+      "nome_h": "Tramandaí"
+    },
+    {
+      "longitude": -50.0282,
+      "latitude": -29.7642,
+      "counts": 5243,
+      "nome_h": "Capão da Canoa"
+    },
+    {
+      "longitude": -49.7333,
+      "latitude": -29.3334,
+      "counts": 4330,
+      "nome_h": "Torres"
+    }
+  ],
+  "centro": {
+    "lat": -30.0318,
+    "lon": -51.2065
+  },
+  "zoom_inicial": 6
+}
