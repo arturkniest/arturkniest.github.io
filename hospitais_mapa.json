@@ -1,0 +1,1563 @@
+{
+  "centro": {
+    "lat": -30.0318,
+    "lon": -51.2065
+  },
+  "zoom_inicial": 6,
+  "hospitais": [
+    {
+      "nome_h": "ACHA ARATIBA",
+      "latitude": -27.3958147,
+      "longitude": -52.300218,
+      "counts": 359
+    },
+    {
+      "nome_h": "ACONSEL",
+      "latitude": -28.7325315,
+      "longitude": -51.7041049,
+      "counts": 497
+    },
+    {
+      "nome_h": "AESC HOSPITAL SANTA ANA",
+      "latitude": -30.08728,
+      "longitude": -51.20694,
+      "counts": 5762
+    },
+    {
+      "nome_h": "ASDOMF",
+      "latitude": -30.704,
+      "longitude": -52.108,
+      "counts": 295
+    },
+    {
+      "nome_h": "ASSO",
+      "latitude": -29.888578,
+      "longitude": -54.823075,
+      "counts": 428
+    },
+    {
+      "nome_h": "ASSOC HOSP SANTO ANTONIO DE PADUA",
+      "latitude": -27.716,
+      "longitude": -53.701,
+      "counts": 98
+    },
+    {
+      "nome_h": "ASSOCIACAO BENEFICENTE OSWALDO CRUZ DE HORIZONTINA",
+      "latitude": -27.6288693,
+      "longitude": -54.3009457,
+      "counts": 359
+    },
+    {
+      "nome_h": "ASSOCIACAO CULTURAL E BENEFICENTE SANTA ROSA DE LIMA",
+      "latitude": -27.5211741884,
+      "longitude": -52.8870892525,
+      "counts": 481
+    },
+    {
+      "nome_h": "ASSOCIACAO HOSPITALAR 15 DE NOVEMBRO",
+      "latitude": -28.7428842741,
+      "longitude": -53.0916666985,
+      "counts": 129
+    },
+    {
+      "nome_h": "ASSOCIACAO HOSPITALAR DE RONDA ALTA",
+      "latitude": -27.7829317,
+      "longitude": -52.8018002,
+      "counts": 502
+    },
+    {
+      "nome_h": "ASSOCIACAO HOSPITALAR MANOEL FRANCISCO GUERREIRO",
+      "latitude": -28.8477003,
+      "longitude": -51.8901665,
+      "counts": 807
+    },
+    {
+      "nome_h": "ASSOCIACAO HOSPITALAR MARCELINENSE",
+      "latitude": -27.4654847,
+      "longitude": -51.9049063,
+      "counts": 105
+    },
+    {
+      "nome_h": "ASSOCIACAO HOSPITALAR VILA NOVA",
+      "latitude": -30.11945225,
+      "longitude": -51.2077654125,
+      "counts": 29113
+    },
+    {
+      "nome_h": "CAMS",
+      "latitude": -27.7610057,
+      "longitude": -54.4803378,
+      "counts": 113
+    },
+    {
+      "nome_h": "CASA DE SAUDE SAO JOSE",
+      "latitude": -29.34687,
+      "longitude": -53.30772,
+      "counts": 11
+    },
+    {
+      "nome_h": "FHSJ",
+      "latitude": -29.0516054,
+      "longitude": -50.1503991,
+      "counts": 36
+    },
+    {
+      "nome_h": "FUNDACAO DE SAUDE PUBLICA DE NOVO HAMBURGO FSNH",
+      "latitude": -29.72575,
+      "longitude": -51.1369,
+      "counts": 13582
+    },
+    {
+      "nome_h": "FUNDACAO DE SAUDE PUBLICA SAO CAMILO DE ESTEIO",
+      "latitude": -29.8380477,
+      "longitude": -51.1685115,
+      "counts": 6465
+    },
+    {
+      "nome_h": "FUNDACAO HOSPITALAR DE CARIDADE DE QUARAI",
+      "latitude": -30.3789101335,
+      "longitude": -56.4607143402,
+      "counts": 989
+    },
+    {
+      "nome_h": "FUNDACAO HOSPITALAR DE SAPUCAIA DO SUL",
+      "latitude": -29.82314,
+      "longitude": -51.1654487,
+      "counts": 4760
+    },
+    {
+      "nome_h": "FUNDACAO HOSPITALAR DO ROLANTE",
+      "latitude": -29.6553697186,
+      "longitude": -50.5682873726,
+      "counts": 1243
+    },
+    {
+      "nome_h": "FUNDACAO HOSPITALAR SANTA TEREZINHA DE ERECHIM",
+      "latitude": -27.63624075,
+      "longitude": -52.2832988321,
+      "counts": 10513
+    },
+    {
+      "nome_h": "FUNDACAO MEDICO HOSPITALAR",
+      "latitude": -30.813,
+      "longitude": -53.895,
+      "counts": 75
+    },
+    {
+      "nome_h": "HCN",
+      "latitude": -27.683946,
+      "longitude": -53.807421,
+      "counts": 126
+    },
+    {
+      "nome_h": "HEPA",
+      "latitude": -30.08599455,
+      "longitude": -51.2073191045,
+      "counts": 2
+    },
+    {
+      "nome_h": "HNSN IBSAUDE",
+      "latitude": -29.3351037,
+      "longitude": -49.7280367,
+      "counts": 4330
+    },
+    {
+      "nome_h": "HOSP DR ANUAR ELIAS AESSE BOQUEIRAO DO LEAO",
+      "latitude": -29.2994237503,
+      "longitude": -52.4240541458,
+      "counts": 155
+    },
+    {
+      "nome_h": "HOSPITAL ADESCO",
+      "latitude": -27.5668355602,
+      "longitude": -53.9716887474,
+      "counts": 80
+    },
+    {
+      "nome_h": "HOSPITAL AGUDO",
+      "latitude": -29.6487497854,
+      "longitude": -53.2409906387,
+      "counts": 973
+    },
+    {
+      "nome_h": "HOSPITAL AJURICABA",
+      "latitude": -28.2356334454,
+      "longitude": -53.768309575,
+      "counts": 158
+    },
+    {
+      "nome_h": "HOSPITAL ALTO JACUI NAO ME TOQUE",
+      "latitude": -28.4482125,
+      "longitude": -52.8149027,
+      "counts": 781
+    },
+    {
+      "nome_h": "HOSPITAL ALVORADA",
+      "latitude": -30.008462,
+      "longitude": -51.0766067,
+      "counts": 18420
+    },
+    {
+      "nome_h": "HOSPITAL ANA NERY",
+      "latitude": -29.7387994423,
+      "longitude": -52.4270904064,
+      "counts": 2678
+    },
+    {
+      "nome_h": "HOSPITAL ANNES DIAS",
+      "latitude": -28.628,
+      "longitude": -53.09,
+      "counts": 831
+    },
+    {
+      "nome_h": "HOSPITAL ARCANJO SAO MIGUEL",
+      "latitude": -29.3767602,
+      "longitude": -50.8700396763,
+      "counts": 1971
+    },
+    {
+      "nome_h": "HOSPITAL AUXILIADORA",
+      "latitude": -30.2518293361,
+      "longitude": -54.916716814,
+      "counts": 1983
+    },
+    {
+      "nome_h": "HOSPITAL BANCO DE OLHOS",
+      "latitude": -30.0221380313,
+      "longitude": -51.1541461945,
+      "counts": 141
+    },
+    {
+      "nome_h": "HOSPITAL BENEFICENTE LEONILDA BRUNET",
+      "latitude": -28.929669459,
+      "longitude": -52.1271657944,
+      "counts": 63
+    },
+    {
+      "nome_h": "HOSPITAL BENEFICENTE NOSSA SENHORA APARECIDA",
+      "latitude": -29.16515345,
+      "longitude": -51.8720472281,
+      "counts": 209
+    },
+    {
+      "nome_h": "HOSPITAL BENEFICENTE NOSSA SENHORA APARECIDA",
+      "latitude": -28.5943937,
+      "longitude": -51.7842393,
+      "counts": 73
+    },
+    {
+      "nome_h": "HOSPITAL BENEFICENTE NOSSA SENHORA DE FATIMA",
+      "latitude": -29.0285555628,
+      "longitude": -51.1813545227,
+      "counts": 274
+    },
+    {
+      "nome_h": "HOSPITAL BENEFICENTE SAO JOAO ARVOREZINHA",
+      "latitude": -28.8783496476,
+      "longitude": -52.1776771545,
+      "counts": 522
+    },
+    {
+      "nome_h": "HOSPITAL BENEFICENTE SAO JOAO BOSCO",
+      "latitude": -28.971,
+      "longitude": -51.068,
+      "counts": 386
+    },
+    {
+      "nome_h": "HOSPITAL BENEFICENTE SAO PEDRO",
+      "latitude": -28.541,
+      "longitude": -51.69,
+      "counts": 8
+    },
+    {
+      "nome_h": "HOSPITAL BENEFICIENTE SANTA LUZIA",
+      "latitude": -29.76557,
+      "longitude": -50.02445,
+      "counts": 5243
+    },
+    {
+      "nome_h": "HOSPITAL BENEFICIENTE SANTA TEREZINHA",
+      "latitude": -29.2972530561,
+      "longitude": -51.8610906601,
+      "counts": 2832
+    },
+    {
+      "nome_h": "HOSPITAL BERNARDINA SALLES DE BARROS",
+      "latitude": -29.2261397,
+      "longitude": -53.6785501,
+      "counts": 160
+    },
+    {
+      "nome_h": "HOSPITAL BOM JESUS",
+      "latitude": -29.651,
+      "longitude": -50.781,
+      "counts": 3106
+    },
+    {
+      "nome_h": "HOSPITAL BOM PASTOR",
+      "latitude": -27.851,
+      "longitude": -53.777,
+      "counts": 1638
+    },
+    {
+      "nome_h": "HOSPITAL BOM PASTOR",
+      "latitude": -29.57221,
+      "longitude": -50.8008656,
+      "counts": 1371
+    },
+    {
+      "nome_h": "HOSPITAL BOM PASTOR IJUI",
+      "latitude": -28.3885121949,
+      "longitude": -53.9184093475,
+      "counts": 1170
+    },
+    {
+      "nome_h": "HOSPITAL BRUNO BORN",
+      "latitude": -29.467,
+      "longitude": -51.961,
+      "counts": 25610
+    },
+    {
+      "nome_h": "HOSPITAL CAMPINA",
+      "latitude": -27.989,
+      "longitude": -54.839,
+      "counts": 368
+    },
+    {
+      "nome_h": "HOSPITAL CANDELARIA",
+      "latitude": -29.6662776726,
+      "longitude": -52.792289257,
+      "counts": 1574
+    },
+    {
+      "nome_h": "HOSPITAL CARIDADE TRES PASSOS",
+      "latitude": -27.451032,
+      "longitude": -53.9367211,
+      "counts": 2847
+    },
+    {
+      "nome_h": "HOSPITAL CARLOS AUMOND UNIDADE MISTA",
+      "latitude": -28.8842876939,
+      "longitude": -50.3587198713,
+      "counts": 13
+    },
+    {
+      "nome_h": "HOSPITAL CASA DE SAUDE",
+      "latitude": -29.69133,
+      "longitude": -53.80015,
+      "counts": 14122
+    },
+    {
+      "nome_h": "HOSPITAL CENTENARIO",
+      "latitude": -29.7765,
+      "longitude": -51.1483,
+      "counts": 10723
+    },
+    {
+      "nome_h": "HOSPITAL COMUNITARIO NONOAI",
+      "latitude": -27.355045,
+      "longitude": -52.773578,
+      "counts": 1059
+    },
+    {
+      "nome_h": "HOSPITAL COMUNITARIO SAO PEREGRINO LAZZIOZI",
+      "latitude": -28.9269275342,
+      "longitude": -51.548538208,
+      "counts": 1586
+    },
+    {
+      "nome_h": "HOSPITAL COMUNITARIO SARANDI SISTEMA DE SAUDE VILA NOVA",
+      "latitude": -27.9389242,
+      "longitude": -52.9261028,
+      "counts": 2648
+    },
+    {
+      "nome_h": "HOSPITAL CRISTO REDENTOR",
+      "latitude": -30.0099128934,
+      "longitude": -51.1590847347,
+      "counts": 7840
+    },
+    {
+      "nome_h": "HOSPITAL CRISTO REDENTOR MARAU",
+      "latitude": -28.447999,
+      "longitude": -52.222867,
+      "counts": 5150
+    },
+    {
+      "nome_h": "HOSPITAL DA COLONIA NOVA",
+      "latitude": -31.868,
+      "longitude": -54.162,
+      "counts": 198
+    },
+    {
+      "nome_h": "HOSPITAL DA COMUNIDADE AHCROS CONSTANTINA",
+      "latitude": -27.735,
+      "longitude": -52.992,
+      "counts": 280
+    },
+    {
+      "nome_h": "HOSPITAL DA RESERVA",
+      "latitude": -31.297447,
+      "longitude": -52.156713,
+      "counts": 494
+    },
+    {
+      "nome_h": "HOSPITAL DE BOM JESUS",
+      "latitude": -29.3575339,
+      "longitude": -50.7944874,
+      "counts": 1525
+    },
+    {
+      "nome_h": "HOSPITAL DE CAMPO BOM DR LAURO REUS",
+      "latitude": -29.6803,
+      "longitude": -51.0536,
+      "counts": 3186
+    },
+    {
+      "nome_h": "HOSPITAL DE CANELA",
+      "latitude": -29.3607454885,
+      "longitude": -50.8081626892,
+      "counts": 1252
+    },
+    {
+      "nome_h": "HOSPITAL DE CARIDADE BOA VISTA",
+      "latitude": -27.669,
+      "longitude": -54.11,
+      "counts": 302
+    },
+    {
+      "nome_h": "HOSPITAL DE CARIDADE BRASILINA TERRA",
+      "latitude": -29.0715118653,
+      "longitude": -53.8486289978,
+      "counts": 761
+    },
+    {
+      "nome_h": "HOSPITAL DE CARIDADE DE ALECRIM",
+      "latitude": -27.6561814,
+      "longitude": -54.7646033,
+      "counts": 257
+    },
+    {
+      "nome_h": "HOSPITAL DE CARIDADE DE CANGUCU",
+      "latitude": -31.39143655,
+      "longitude": -52.6787456367,
+      "counts": 1855
+    },
+    {
+      "nome_h": "HOSPITAL DE CARIDADE DE CRISSIUMAL",
+      "latitude": -27.4929450243,
+      "longitude": -54.0947002172,
+      "counts": 541
+    },
+    {
+      "nome_h": "HOSPITAL DE CARIDADE DE SANTIAGO",
+      "latitude": -29.19771,
+      "longitude": -54.86616,
+      "counts": 2828
+    },
+    {
+      "nome_h": "HOSPITAL DE CARIDADE DE SANTO CRISTO",
+      "latitude": -27.8235730506,
+      "longitude": -54.6650075912,
+      "counts": 938
+    },
+    {
+      "nome_h": "HOSPITAL DE CARIDADE DE SAO MARTINHO",
+      "latitude": -27.70784,
+      "longitude": -53.96597,
+      "counts": 464
+    },
+    {
+      "nome_h": "HOSPITAL DE CARIDADE DR VICTOR LANG",
+      "latitude": -30.5163724347,
+      "longitude": -53.4849214554,
+      "counts": 878
+    },
+    {
+      "nome_h": "HOSPITAL DE CARIDADE NOSSA SENHORA DA CONCEICAO PIRATINI",
+      "latitude": -31.4491539175,
+      "longitude": -53.1072610617,
+      "counts": 1183
+    },
+    {
+      "nome_h": "HOSPITAL DE CARIDADE PALMEIRA DAS MISSOES",
+      "latitude": -27.8980918,
+      "longitude": -53.3173063,
+      "counts": 2353
+    },
+    {
+      "nome_h": "HOSPITAL DE CARIDADE SANTA RITA",
+      "latitude": -29.9443834146,
+      "longitude": -51.7165410519,
+      "counts": 8496
+    },
+    {
+      "nome_h": "HOSPITAL DE CARIDADE SANTANA",
+      "latitude": -29.6031070249,
+      "longitude": -51.9400548935,
+      "counts": 764
+    },
+    {
+      "nome_h": "HOSPITAL DE CARIDADE SAO FRANCISCO",
+      "latitude": -29.8152292,
+      "longitude": -53.3686821,
+      "counts": 775
+    },
+    {
+      "nome_h": "HOSPITAL DE CARIDADE SAO PAULO SAO PAULO DAS MISSOES",
+      "latitude": -28.0215664,
+      "longitude": -54.9347439085,
+      "counts": 497
+    },
+    {
+      "nome_h": "HOSPITAL DE CARIDADE SAO ROQUE",
+      "latitude": -29.5737743307,
+      "longitude": -53.4437870979,
+      "counts": 2410
+    },
+    {
+      "nome_h": "HOSPITAL DE CARIDADE SAO ROQUE",
+      "latitude": -28.9831805,
+      "longitude": -51.838405,
+      "counts": 185
+    },
+    {
+      "nome_h": "HOSPITAL DE CARIDADE SAO VICENTE DE PAULO",
+      "latitude": -28.63181,
+      "longitude": -53.60684,
+      "counts": 2089
+    },
+    {
+      "nome_h": "HOSPITAL DE CARIDADE SERRO AZUL",
+      "latitude": -28.1473652698,
+      "longitude": -54.7371912003,
+      "counts": 568
+    },
+    {
+      "nome_h": "HOSPITAL DE CHARQUEADAS",
+      "latitude": -29.9582572,
+      "longitude": -51.5536679,
+      "counts": 885
+    },
+    {
+      "nome_h": "HOSPITAL DE CHIAPETTA",
+      "latitude": -27.92113,
+      "longitude": -53.9412440253,
+      "counts": 44
+    },
+    {
+      "nome_h": "HOSPITAL DE CLINICAS",
+      "latitude": -28.2636081955,
+      "longitude": -52.407220602,
+      "counts": 17081
+    },
+    {
+      "nome_h": "HOSPITAL DE CLINICAS",
+      "latitude": -30.0391768308,
+      "longitude": -51.2079481885,
+      "counts": 55358
+    },
+    {
+      "nome_h": "HOSPITAL DE CLINICAS DE CARAZINHO",
+      "latitude": -28.284,
+      "longitude": -52.786,
+      "counts": 3847
+    },
+    {
+      "nome_h": "HOSPITAL DE CLINICAS IJUI",
+      "latitude": -28.3938543239,
+      "longitude": -53.9100837708,
+      "counts": 10088
+    },
+    {
+      "nome_h": "HOSPITAL DE CONDOR",
+      "latitude": -28.2095797,
+      "longitude": -53.4890276,
+      "counts": 269
+    },
+    {
+      "nome_h": "HOSPITAL DE IVORA",
+      "latitude": -29.519947581,
+      "longitude": -53.5804724693,
+      "counts": 14
+    },
+    {
+      "nome_h": "HOSPITAL DE MATA",
+      "latitude": -29.5656129,
+      "longitude": -54.461792,
+      "counts": 29
+    },
+    {
+      "nome_h": "HOSPITAL DE OLHOS LIONS PASSO FUNDO",
+      "latitude": -28.2332088186,
+      "longitude": -52.3851728439,
+      "counts": 50
+    },
+    {
+      "nome_h": "HOSPITAL DE PORTAO",
+      "latitude": -29.6899913979,
+      "longitude": -51.244096756,
+      "counts": 1034
+    },
+    {
+      "nome_h": "HOSPITAL DE PORTO XAVIER",
+      "latitude": -27.906,
+      "longitude": -55.138,
+      "counts": 80
+    },
+    {
+      "nome_h": "HOSPITAL DE PRONTO SOCORRO PREF DR MARCOS ANTONIO RONCHETTI",
+      "latitude": -29.918,
+      "longitude": -51.184,
+      "counts": 4519
+    },
+    {
+      "nome_h": "HOSPITAL DE SANTO ANTONIO DA PATRULHA",
+      "latitude": -29.815249798,
+      "longitude": -50.5156601135,
+      "counts": 1198
+    },
+    {
+      "nome_h": "HOSPITAL DE SAO VICENTE DO SUL",
+      "latitude": -29.6951174506,
+      "longitude": -54.6717453003,
+      "counts": 63
+    },
+    {
+      "nome_h": "HOSPITAL DIVINA PROVIDENCIA FREDWEST",
+      "latitude": -27.3559407301,
+      "longitude": -53.4017193317,
+      "counts": 1980
+    },
+    {
+      "nome_h": "HOSPITAL DO CIRCULO",
+      "latitude": -29.1536442,
+      "longitude": -51.1734578,
+      "counts": 19
+    },
+    {
+      "nome_h": "HOSPITAL DOM JOAO BECKER",
+      "latitude": -29.9406182011,
+      "longitude": -50.9942007065,
+      "counts": 7261
+    },
+    {
+      "nome_h": "HOSPITAL DOS TRABALHADORES ATRA",
+      "latitude": -27.7840938637,
+      "longitude": -52.8031682968,
+      "counts": 582
+    },
+    {
+      "nome_h": "HOSPITAL DOUTOR OSCAR BENEVOLO",
+      "latitude": -29.0032423667,
+      "longitude": -52.1554255486,
+      "counts": 184
+    },
+    {
+      "nome_h": "HOSPITAL DR OSVALDO TEIXEIRA",
+      "latitude": -27.6598878432,
+      "longitude": -54.4422984123,
+      "counts": 367
+    },
+    {
+      "nome_h": "HOSPITAL DR OSWALDO DIESEL",
+      "latitude": -29.51785915,
+      "longitude": -50.7782463829,
+      "counts": 747
+    },
+    {
+      "nome_h": "HOSPITAL DR ROBERTO BINATTO",
+      "latitude": -29.6200086348,
+      "longitude": -53.4460401535,
+      "counts": 346
+    },
+    {
+      "nome_h": "HOSPITAL ESCOLA DA UFPEL",
+      "latitude": -31.7649779,
+      "longitude": -52.3468006,
+      "counts": 2687
+    },
+    {
+      "nome_h": "HOSPITAL ESTRELA",
+      "latitude": -29.5060346,
+      "longitude": -51.965813491,
+      "counts": 5019
+    },
+    {
+      "nome_h": "HOSPITAL FEMINA",
+      "latitude": -30.0291791246,
+      "longitude": -51.2068676949,
+      "counts": 8569
+    },
+    {
+      "nome_h": "HOSPITAL FREI CLEMENTE SOLEDADE",
+      "latitude": -28.83058,
+      "longitude": -52.51374,
+      "counts": 7002
+    },
+    {
+      "nome_h": "HOSPITAL GERAL",
+      "latitude": -29.16110645,
+      "longitude": -51.1557774574,
+      "counts": 21331
+    },
+    {
+      "nome_h": "HOSPITAL GETUINAR DAVILA DO NASCIMENTO",
+      "latitude": -29.6138154378,
+      "longitude": -54.1855037212,
+      "counts": 501
+    },
+    {
+      "nome_h": "HOSPITAL INDEPENDENCIA",
+      "latitude": -30.0612577,
+      "longitude": -51.1494461377,
+      "counts": 8382
+    },
+    {
+      "nome_h": "HOSPITAL IVAN GOULART",
+      "latitude": -28.6599262,
+      "longitude": -56.0064328,
+      "counts": 4916
+    },
+    {
+      "nome_h": "HOSPITAL MARQUES DE SOUZA",
+      "latitude": -29.3244507,
+      "longitude": -52.0967805,
+      "counts": 521
+    },
+    {
+      "nome_h": "HOSPITAL MATERNO INFANTIL PRESIDENTE VARGAS",
+      "latitude": -30.02934,
+      "longitude": -51.21495,
+      "counts": 3417
+    },
+    {
+      "nome_h": "HOSPITAL MEDIANEIRA PLANALTO",
+      "latitude": -27.3333451202,
+      "longitude": -53.0625486374,
+      "counts": 7176
+    },
+    {
+      "nome_h": "HOSPITAL MONTE ALVERNE",
+      "latitude": -29.5656932806,
+      "longitude": -52.3344039917,
+      "counts": 435
+    },
+    {
+      "nome_h": "HOSPITAL MONTENEGRO",
+      "latitude": -29.69536,
+      "longitude": -51.45852,
+      "counts": 5018
+    },
+    {
+      "nome_h": "HOSPITAL MUNICIPAL DE CAMPINAS DO SUL",
+      "latitude": -27.716,
+      "longitude": -52.628,
+      "counts": 90
+    },
+    {
+      "nome_h": "HOSPITAL MUNICIPAL DR ADERBAL SCHNEIDER",
+      "latitude": -29.0871869,
+      "longitude": -53.2245449,
+      "counts": 168
+    },
+    {
+      "nome_h": "HOSPITAL MUNICIPAL GETULIO VARGAS",
+      "latitude": -29.648500364,
+      "longitude": -51.1750647426,
+      "counts": 773
+    },
+    {
+      "nome_h": "HOSPITAL MUNICIPAL PASSO FUNDO",
+      "latitude": -28.257315,
+      "longitude": -52.393838,
+      "counts": 363
+    },
+    {
+      "nome_h": "HOSPITAL MUNICIPAL PEDRO CALIL",
+      "latitude": -30.0006684,
+      "longitude": -53.4980484,
+      "counts": 33
+    },
+    {
+      "nome_h": "HOSPITAL MUNICIPAL SALDANHA MARINHO",
+      "latitude": -28.391405095,
+      "longitude": -53.0984285474,
+      "counts": 37
+    },
+    {
+      "nome_h": "HOSPITAL MUNICIPAL SAO JOSE DO NORTE IBSAUDE",
+      "latitude": -32.0096222027,
+      "longitude": -52.0411680793,
+      "counts": 513
+    },
+    {
+      "nome_h": "HOSPITAL N S AUXILIADORA IRAI",
+      "latitude": -27.1939340457,
+      "longitude": -53.2568693161,
+      "counts": 211
+    },
+    {
+      "nome_h": "HOSPITAL N S DA POMPEIA VIADUTOS",
+      "latitude": -27.5691,
+      "longitude": -52.0193,
+      "counts": 112
+    },
+    {
+      "nome_h": "HOSPITAL NOSSA SENHORA",
+      "latitude": -27.249,
+      "longitude": -53.035,
+      "counts": 498
+    },
+    {
+      "nome_h": "HOSPITAL NOSSA SENHORA APARECIDA DE CAMAQUA",
+      "latitude": -30.8515,
+      "longitude": -51.8129,
+      "counts": 4982
+    },
+    {
+      "nome_h": "HOSPITAL NOSSA SENHORA DA CONCEICAO SA",
+      "latitude": -30.0160995762,
+      "longitude": -51.1586308479,
+      "counts": 62676
+    },
+    {
+      "nome_h": "HOSPITAL NOSSA SENHORA DA GLORIA",
+      "latitude": -32.0315815756,
+      "longitude": -53.3915805817,
+      "counts": 23
+    },
+    {
+      "nome_h": "HOSPITAL NOSSA SENHORA DA OLIVEIRA",
+      "latitude": -28.502141,
+      "longitude": -50.93534,
+      "counts": 6323
+    },
+    {
+      "nome_h": "HOSPITAL NOSSA SENHORA DA PIEDADE",
+      "latitude": -29.4702204,
+      "longitude": -53.4741824,
+      "counts": 327
+    },
+    {
+      "nome_h": "HOSPITAL NOSSA SENHORA DAS GRACAS",
+      "latitude": -29.926667,
+      "longitude": -51.161389,
+      "counts": 10041
+    },
+    {
+      "nome_h": "HOSPITAL NOSSA SENHORA DO ROSARIO",
+      "latitude": -28.7115922458,
+      "longitude": -51.9357955456,
+      "counts": 569
+    },
+    {
+      "nome_h": "HOSPITAL NOSSA SENHORA DO ROSARIO DE RIOZINHO",
+      "latitude": -29.6397235976,
+      "longitude": -50.4586815834,
+      "counts": 49
+    },
+    {
+      "nome_h": "HOSPITAL NOTRE DAME SAO SEBASTIAO",
+      "latitude": -28.7248779192,
+      "longitude": -52.8479504585,
+      "counts": 911
+    },
+    {
+      "nome_h": "HOSPITAL NOVA PETROPOLIS",
+      "latitude": -29.3742526,
+      "longitude": -51.1178981989,
+      "counts": 715
+    },
+    {
+      "nome_h": "HOSPITAL OURO BRANCO",
+      "latitude": -29.4722197125,
+      "longitude": -51.8118238449,
+      "counts": 1810
+    },
+    {
+      "nome_h": "HOSPITAL PADRE CATELLI",
+      "latitude": -28.973004769,
+      "longitude": -52.0047926903,
+      "counts": 255
+    },
+    {
+      "nome_h": "HOSPITAL PADRE EUGENIO",
+      "latitude": -27.8254232854,
+      "longitude": -52.9135197401,
+      "counts": 102
+    },
+    {
+      "nome_h": "HOSPITAL PADRE JEREMIAS",
+      "latitude": -29.947,
+      "longitude": -51.095,
+      "counts": 26160
+    },
+    {
+      "nome_h": "HOSPITAL PANAMBI",
+      "latitude": -28.2896815233,
+      "longitude": -53.4964227676,
+      "counts": 1019
+    },
+    {
+      "nome_h": "HOSPITAL PEJUCARA",
+      "latitude": -28.4216107,
+      "longitude": -53.6543589,
+      "counts": 20
+    },
+    {
+      "nome_h": "HOSPITAL PINHEIRO MACHADO",
+      "latitude": -31.5783891841,
+      "longitude": -53.3773756027,
+      "counts": 193
+    },
+    {
+      "nome_h": "HOSPITAL PIO XII SEBERI",
+      "latitude": -27.4785017205,
+      "longitude": -53.4056997299,
+      "counts": 1091
+    },
+    {
+      "nome_h": "HOSPITAL POMPEIA",
+      "latitude": -29.1677118,
+      "longitude": -51.1839939,
+      "counts": 8044
+    },
+    {
+      "nome_h": "HOSPITAL REGINA NOVO HAMBURGO",
+      "latitude": -29.6786945188,
+      "longitude": -51.1155223846,
+      "counts": 953
+    },
+    {
+      "nome_h": "HOSPITAL REGIONAL DAS MISSOES",
+      "latitude": -28.3061754284,
+      "longitude": -54.2633628845,
+      "counts": 4180
+    },
+    {
+      "nome_h": "HOSPITAL REGIONAL DE SANTA MARIA",
+      "latitude": -29.70506,
+      "longitude": -53.86354,
+      "counts": 10514
+    },
+    {
+      "nome_h": "HOSPITAL REGIONAL DO VALE DO RIO PARDO",
+      "latitude": -29.9846390426,
+      "longitude": -52.3715257645,
+      "counts": 3047
+    },
+    {
+      "nome_h": "HOSPITAL REGIONAL NELSON CORNETET",
+      "latitude": -30.1129171,
+      "longitude": -51.3312095196,
+      "counts": 2413
+    },
+    {
+      "nome_h": "HOSPITAL RESTINGA E EXTREMO SUL",
+      "latitude": -30.1425664699,
+      "longitude": -51.1286973953,
+      "counts": 8733
+    },
+    {
+      "nome_h": "HOSPITAL ROQUE GONZALES CAIBATE",
+      "latitude": -28.2901161034,
+      "longitude": -54.6355462074,
+      "counts": 130
+    },
+    {
+      "nome_h": "HOSPITAL ROQUE GONZALES TAPERA",
+      "latitude": -28.6258346415,
+      "longitude": -52.870759964,
+      "counts": 562
+    },
+    {
+      "nome_h": "HOSPITAL SAGRADA FAMILIA",
+      "latitude": -29.5890388451,
+      "longitude": -51.3689160347,
+      "counts": 268
+    },
+    {
+      "nome_h": "HOSPITAL SANATORIO PARTENON",
+      "latitude": -30.0618740334,
+      "longitude": -51.1790618458,
+      "counts": 92
+    },
+    {
+      "nome_h": "HOSPITAL SANTA BARBARA",
+      "latitude": -30.5411767335,
+      "longitude": -52.5236606598,
+      "counts": 1226
+    },
+    {
+      "nome_h": "HOSPITAL SANTA BARBARA BENEFICENTE",
+      "latitude": -28.3658570674,
+      "longitude": -53.260409832,
+      "counts": 335
+    },
+    {
+      "nome_h": "HOSPITAL SANTA CRUZ",
+      "latitude": -29.7202220105,
+      "longitude": -52.4268865585,
+      "counts": 11038
+    },
+    {
+      "nome_h": "HOSPITAL SANTA ISABEL",
+      "latitude": -27.5860974,
+      "longitude": -52.1008326,
+      "counts": 175
+    },
+    {
+      "nome_h": "HOSPITAL SANTA ISABEL PROGRESSO",
+      "latitude": -29.2425775251,
+      "longitude": -52.3093628883,
+      "counts": 547
+    },
+    {
+      "nome_h": "HOSPITAL SANTA LUCIA CASCA",
+      "latitude": -28.561,
+      "longitude": -51.978,
+      "counts": 240
+    },
+    {
+      "nome_h": "HOSPITAL SANTA RITA D JABOTICABA",
+      "latitude": -27.631,
+      "longitude": -53.277,
+      "counts": 311
+    },
+    {
+      "nome_h": "HOSPITAL SANTA ROSA DE LIMA",
+      "latitude": -29.3345943,
+      "longitude": -53.0922686,
+      "counts": 615
+    },
+    {
+      "nome_h": "HOSPITAL SANTA TERESA GUARANI DAS MISSOES",
+      "latitude": -28.1481779,
+      "longitude": -54.5604442,
+      "counts": 368
+    },
+    {
+      "nome_h": "HOSPITAL SANTA TEREZINHA PAIM FILHO",
+      "latitude": -27.711,
+      "longitude": -51.761,
+      "counts": 177
+    },
+    {
+      "nome_h": "HOSPITAL SANTA TEREZINHA PALMITINHO",
+      "latitude": -27.3565563,
+      "longitude": -53.5566017,
+      "counts": 678
+    },
+    {
+      "nome_h": "HOSPITAL SANTO AFONSO",
+      "latitude": -27.9509282686,
+      "longitude": -54.7526621819,
+      "counts": 488
+    },
+    {
+      "nome_h": "HOSPITAL SANTO ANTONIO",
+      "latitude": -29.5575929187,
+      "longitude": -55.1266264915,
+      "counts": 466
+    },
+    {
+      "nome_h": "HOSPITAL SANTO ANTONIO",
+      "latitude": -30.1699793506,
+      "longitude": -53.563606739,
+      "counts": 1954
+    },
+    {
+      "nome_h": "HOSPITAL SANTO ANTONIO",
+      "latitude": -28.0635593735,
+      "longitude": -52.0099827647,
+      "counts": 4146
+    },
+    {
+      "nome_h": "HOSPITAL SANTO ANTONIO ROQUE GONZALES",
+      "latitude": -28.1337041388,
+      "longitude": -55.0273633003,
+      "counts": 102
+    },
+    {
+      "nome_h": "HOSPITAL SANTO ANTONIO TENENTE PORTELA",
+      "latitude": -27.3718836,
+      "longitude": -53.7574706,
+      "counts": 4767
+    },
+    {
+      "nome_h": "HOSPITAL SAO CARLOS",
+      "latitude": -29.2268129,
+      "longitude": -51.3490615,
+      "counts": 4851
+    },
+    {
+      "nome_h": "HOSPITAL SAO FRANCISCO",
+      "latitude": -28.517,
+      "longitude": -53.992,
+      "counts": 73
+    },
+    {
+      "nome_h": "HOSPITAL SAO FRANCISCO DE ASSIS",
+      "latitude": -29.6249330741,
+      "longitude": -50.8381605148,
+      "counts": 5699
+    },
+    {
+      "nome_h": "HOSPITAL SAO FRANCISCO DE PAULA",
+      "latitude": -29.448,
+      "longitude": -50.584,
+      "counts": 2848
+    },
+    {
+      "nome_h": "HOSPITAL SAO GABRIEL AMETISTA DO SUL",
+      "latitude": -27.3654979243,
+      "longitude": -53.1718540192,
+      "counts": 210
+    },
+    {
+      "nome_h": "HOSPITAL SAO GABRIEL ARCANJO",
+      "latitude": -29.5133280953,
+      "longitude": -51.9855880737,
+      "counts": 1161
+    },
+    {
+      "nome_h": "HOSPITAL SAO JOAO BATISTA",
+      "latitude": -28.784,
+      "longitude": -51.61,
+      "counts": 1194
+    },
+    {
+      "nome_h": "HOSPITAL SAO JOAO BATISTA NOVA BRESCIA",
+      "latitude": -29.2146131097,
+      "longitude": -52.0257005095,
+      "counts": 350
+    },
+    {
+      "nome_h": "HOSPITAL SAO JOAO EVANGELISTA",
+      "latitude": -29.4131824835,
+      "longitude": -53.0264729261,
+      "counts": 1984
+    },
+    {
+      "nome_h": "HOSPITAL SAO JOAO EVANGELISTA",
+      "latitude": -29.3498045628,
+      "longitude": -52.9638004303,
+      "counts": 82
+    },
+    {
+      "nome_h": "HOSPITAL SAO JOAO SANANDUVA",
+      "latitude": -27.95,
+      "longitude": -51.807,
+      "counts": 1951
+    },
+    {
+      "nome_h": "HOSPITAL SAO JOSE",
+      "latitude": -28.0308113611,
+      "longitude": -54.3459105492,
+      "counts": 522
+    },
+    {
+      "nome_h": "HOSPITAL SAO JOSE",
+      "latitude": -29.8029089199,
+      "longitude": -51.8667447567,
+      "counts": 638
+    },
+    {
+      "nome_h": "HOSPITAL SAO JOSE",
+      "latitude": -27.7725526,
+      "longitude": -51.6018113,
+      "counts": 951
+    },
+    {
+      "nome_h": "HOSPITAL SAO JOSE",
+      "latitude": -28.8579003,
+      "longitude": -51.2852313,
+      "counts": 948
+    },
+    {
+      "nome_h": "HOSPITAL SAO JOSE",
+      "latitude": -29.5885910193,
+      "longitude": -51.0875201225,
+      "counts": 1090
+    },
+    {
+      "nome_h": "HOSPITAL SAO JOSE",
+      "latitude": -30.264367838,
+      "longitude": -50.5117464066,
+      "counts": 239
+    },
+    {
+      "nome_h": "HOSPITAL SAO JOSE ARROIO DO MEIO",
+      "latitude": -29.4020936,
+      "longitude": -51.9467243,
+      "counts": 1731
+    },
+    {
+      "nome_h": "HOSPITAL SAO JOSE CHAPADA",
+      "latitude": -28.0594835777,
+      "longitude": -53.0658960342,
+      "counts": 371
+    },
+    {
+      "nome_h": "HOSPITAL SAO JOSE DAVID CANABARRO",
+      "latitude": -28.388,
+      "longitude": -51.848,
+      "counts": 343
+    },
+    {
+      "nome_h": "HOSPITAL SAO JOSE IVOTI",
+      "latitude": -29.5919100139,
+      "longitude": -51.1601758003,
+      "counts": 876
+    },
+    {
+      "nome_h": "HOSPITAL SAO JOSE MAXIMILIANO DE ALMEIDA",
+      "latitude": -27.6364515943,
+      "longitude": -51.7994427681,
+      "counts": 363
+    },
+    {
+      "nome_h": "HOSPITAL SAO JOSE PORTO LUCENA RS",
+      "latitude": -27.8524821027,
+      "longitude": -55.0183936194,
+      "counts": 170
+    },
+    {
+      "nome_h": "HOSPITAL SAO JOSE RODEIO BONITO",
+      "latitude": -27.4715911076,
+      "longitude": -53.1687855721,
+      "counts": 1738
+    },
+    {
+      "nome_h": "HOSPITAL SAO JOSE SERTAO",
+      "latitude": -27.9880009509,
+      "longitude": -52.2596558609,
+      "counts": 232
+    },
+    {
+      "nome_h": "HOSPITAL SAO LUCAS DA PUCRS",
+      "latitude": -30.05511,
+      "longitude": -51.17256,
+      "counts": 17690
+    },
+    {
+      "nome_h": "HOSPITAL SAO LUIZ",
+      "latitude": -30.981380431,
+      "longitude": -54.6702218056,
+      "counts": 1232
+    },
+    {
+      "nome_h": "HOSPITAL SAO LUIZ",
+      "latitude": -31.107,
+      "longitude": -50.921,
+      "counts": 22
+    },
+    {
+      "nome_h": "HOSPITAL SAO LUIZ GONZAGA",
+      "latitude": -28.40434903,
+      "longitude": -54.9621748924,
+      "counts": 2209
+    },
+    {
+      "nome_h": "HOSPITAL SAO MIGUEL ARCANJO",
+      "latitude": -28.5501814,
+      "longitude": -54.5503922,
+      "counts": 239
+    },
+    {
+      "nome_h": "HOSPITAL SAO PATRICIO DE ITAQUI",
+      "latitude": -29.1330245327,
+      "longitude": -56.5387611037,
+      "counts": 1382
+    },
+    {
+      "nome_h": "HOSPITAL SAO PAULO",
+      "latitude": -28.20887,
+      "longitude": -51.527228,
+      "counts": 1287
+    },
+    {
+      "nome_h": "HOSPITAL SAO PEDRO",
+      "latitude": -29.256,
+      "longitude": -51.534,
+      "counts": 2032
+    },
+    {
+      "nome_h": "HOSPITAL SAO PEDRO CANISIO",
+      "latitude": -29.489,
+      "longitude": -51.353,
+      "counts": 310
+    },
+    {
+      "nome_h": "HOSPITAL SAO ROQUE",
+      "latitude": -27.4337106,
+      "longitude": -52.1156418,
+      "counts": 84
+    },
+    {
+      "nome_h": "HOSPITAL SAO ROQUE",
+      "latitude": -29.298,
+      "longitude": -51.504,
+      "counts": 419
+    },
+    {
+      "nome_h": "HOSPITAL SAO ROQUE DE CAICARA",
+      "latitude": -27.2743899823,
+      "longitude": -53.4371513128,
+      "counts": 728
+    },
+    {
+      "nome_h": "HOSPITAL SAO ROQUE DE GETULIO VARGAS",
+      "latitude": -27.8842443002,
+      "longitude": -52.2232103348,
+      "counts": 1033
+    },
+    {
+      "nome_h": "HOSPITAL SAO SALVADOR",
+      "latitude": -29.4383455342,
+      "longitude": -51.511888504,
+      "counts": 34
+    },
+    {
+      "nome_h": "HOSPITAL SAO SEBASTIAO MARTIR",
+      "latitude": -29.6076218603,
+      "longitude": -52.1908092499,
+      "counts": 1884
+    },
+    {
+      "nome_h": "HOSPITAL SAO VICENTE DE PAULO",
+      "latitude": -27.78106625,
+      "longitude": -54.238225546,
+      "counts": 2181
+    },
+    {
+      "nome_h": "HOSPITAL SAO VICENTE DE PAULO",
+      "latitude": -28.2592565078,
+      "longitude": -52.4142479897,
+      "counts": 34775
+    },
+    {
+      "nome_h": "HOSPITAL SAO VICENTE DE PAULO",
+      "latitude": -29.8867564,
+      "longitude": -50.2653533,
+      "counts": 2883
+    },
+    {
+      "nome_h": "HOSPITAL SAPIRANGA",
+      "latitude": -29.6442,
+      "longitude": -51.0097,
+      "counts": 4361
+    },
+    {
+      "nome_h": "HOSPITAL SCHLATTER",
+      "latitude": -29.4533711,
+      "longitude": -51.3083412,
+      "counts": 194
+    },
+    {
+      "nome_h": "HOSPITAL SINIMBU",
+      "latitude": -29.5343,
+      "longitude": -52.52096,
+      "counts": 448
+    },
+    {
+      "nome_h": "HOSPITAL TACCHINI",
+      "latitude": -29.1674979,
+      "longitude": -51.5144969,
+      "counts": 7631
+    },
+    {
+      "nome_h": "HOSPITAL TRAMANDAI",
+      "latitude": -29.9920125,
+      "longitude": -50.1398328,
+      "counts": 7633
+    },
+    {
+      "nome_h": "HOSPITAL UNIVERSITARIO DE CANOAS",
+      "latitude": -29.918,
+      "longitude": -51.184,
+      "counts": 24267
+    },
+    {
+      "nome_h": "HOSPITAL UNIVERSITARIO DR MIGUEL RIET CORREA JUNIOR",
+      "latitude": -32.035,
+      "longitude": -52.099,
+      "counts": 2730
+    },
+    {
+      "nome_h": "HOSPITAL UNIVERSITARIO SANTA MARIA",
+      "latitude": -29.71418,
+      "longitude": -53.7154,
+      "counts": 28798
+    },
+    {
+      "nome_h": "HOSPITAL UNIVERSITARIO URCAMP",
+      "latitude": -31.3329,
+      "longitude": -54.10265,
+      "counts": 787
+    },
+    {
+      "nome_h": "HOSPITAL VALE DO SOL",
+      "latitude": -29.604579,
+      "longitude": -52.687443,
+      "counts": 398
+    },
+    {
+      "nome_h": "HOSPITAL VERA CRUZ",
+      "latitude": -29.716868,
+      "longitude": -52.5027218,
+      "counts": 6392
+    },
+    {
+      "nome_h": "HOSPITAL VIAMAO",
+      "latitude": -30.0795679,
+      "longitude": -51.0299126,
+      "counts": 6533
+    },
+    {
+      "nome_h": "HOSPITAL VIDA SAUDE",
+      "latitude": -27.8667369781,
+      "longitude": -54.4856643677,
+      "counts": 9399
+    },
+    {
+      "nome_h": "HOSPITAL VIDA SAUDE FILIAL 01",
+      "latitude": -27.8720103371,
+      "longitude": -54.47660923,
+      "counts": 1125
+    },
+    {
+      "nome_h": "HOSPITAL VIRVI RAMOS",
+      "latitude": -29.15464375,
+      "longitude": -51.1799480295,
+      "counts": 3899
+    },
+    {
+      "nome_h": "HPS",
+      "latitude": -30.0369070312,
+      "longitude": -51.2097644806,
+      "counts": 8302
+    },
+    {
+      "nome_h": "HRSJ HOSPITAL REGIONAL DE SAO JERONIMO",
+      "latitude": -29.959730995,
+      "longitude": -51.7153930664,
+      "counts": 8386
+    },
+    {
+      "nome_h": "INSTITUTO DE CARDIOLOGIA",
+      "latitude": -30.0489602223,
+      "longitude": -51.2090492879,
+      "counts": 10218
+    },
+    {
+      "nome_h": "IRDESI DE JAGUARI",
+      "latitude": -29.497,
+      "longitude": -54.69,
+      "counts": 672
+    },
+    {
+      "nome_h": "IRMANDADE DA SANTA CASA DE MISERICORDIA DE PORTO ALEGRE",
+      "latitude": -30.0302060796,
+      "longitude": -51.2226355882,
+      "counts": 39532
+    },
+    {
+      "nome_h": "IRMANDADE S CASA DE MISERICORDIA DE S V PALMAR",
+      "latitude": -33.5243667696,
+      "longitude": -53.3723545074,
+      "counts": 792
+    },
+    {
+      "nome_h": "SANTA CASA DE ALEGRETE",
+      "latitude": -29.7747892449,
+      "longitude": -55.7910633087,
+      "counts": 3389
+    },
+    {
+      "nome_h": "SANTA CASA DE CARIDADE DE BAGE",
+      "latitude": -31.3267231,
+      "longitude": -54.1146123,
+      "counts": 9150
+    },
+    {
+      "nome_h": "SANTA CASA DE CARIDADE JAGUARAO",
+      "latitude": -32.566,
+      "longitude": -53.376,
+      "counts": 1311
+    },
+    {
+      "nome_h": "SANTA CASA DE MISERIC S LOURENCO DO SUL",
+      "latitude": -31.3643659,
+      "longitude": -51.9786573,
+      "counts": 1037
+    },
+    {
+      "nome_h": "SANTA CASA DE MISERICORDIA",
+      "latitude": -30.8900170046,
+      "longitude": -55.5379271507,
+      "counts": 3037
+    },
+    {
+      "nome_h": "SANTA CASA DE MISERICORDIA DE ARROIO GRANDE",
+      "latitude": -32.2330368,
+      "longitude": -53.0845649,
+      "counts": 439
+    },
+    {
+      "nome_h": "SANTA CASA DE MISERICORDIA DE PEDRO OSORIO",
+      "latitude": -31.8644556,
+      "longitude": -52.8229722045,
+      "counts": 242
+    },
+    {
+      "nome_h": "SANTA CASA DE MISERICORDIA DE PELOTAS",
+      "latitude": -31.7657472097,
+      "longitude": -52.3469889164,
+      "counts": 2243
+    },
+    {
+      "nome_h": "SANTA CASA DE SAO GABRIEL",
+      "latitude": -30.3348748,
+      "longitude": -54.3208694458,
+      "counts": 21480
+    },
+    {
+      "nome_h": "SANTA CASA DE URUGUAIANA",
+      "latitude": -29.77232,
+      "longitude": -57.08448,
+      "counts": 4614
+    },
+    {
+      "nome_h": "SANTA CASA DO RIO GRANDE",
+      "latitude": -32.0320590846,
+      "longitude": -52.0960843563,
+      "counts": 7056
+    },
+    {
+      "nome_h": "SOCIEDADE BENEFICENTE ROQUE GONZALES",
+      "latitude": -29.2837038875,
+      "longitude": -51.8695771694,
+      "counts": 38
+    },
+    {
+      "nome_h": "SOCIEDADE PORTUGUESA DE BENEFICENCIA",
+      "latitude": -31.7750706326,
+      "longitude": -52.3457323245,
+      "counts": 4333
+    },
+    {
+      "nome_h": "UCPEL HOSPITAL UNIVERSITARIO SAO FRANCISCO DE PAULA",
+      "latitude": -31.757565,
+      "longitude": -52.340744,
+      "counts": 6008
+    },
+    {
+      "nome_h": "UNIDADE MISTA HOSPITAL PARAISO",
+      "latitude": -29.6702862815,
+      "longitude": -53.1439590454,
+      "counts": 66
+    }
+  ]
+}
