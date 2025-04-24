@@ -1,11 +1,15 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8">
-  <title>Mapa de Internações</title>
-</head>
-<body>
-  <h1>Mapa de Internações no Rio Grande do Sul</h1>
-  <img src="mapa_internacoes.png" alt="Mapa de Internações">
-</body>
-</html>
+import matplotlib.pyplot as plt
+import matplotlib.image as mpimg
+
+# Caminho da imagem enviada
+img_path = "/mnt/data/Screenshot from 2025-04-24 13-12-55.png"
+
+# Carregar imagem
+img = mpimg.imread(img_path)
+
+# Mostrar imagem como se fosse um gráfico
+plt.figure(figsize=(8, 8))
+plt.imshow(img)
+plt.axis('off')  # Remover eixos
+plt.title('Mapa de Internações no Rio Grande do Sul')
+plt.show()
