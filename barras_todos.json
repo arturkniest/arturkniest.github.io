@@ -1,0 +1,2966 @@
+[
+    {
+        "Cidade": "Aceguá",
+        "Quantidade_Local": 132,
+        "Quantidade_Fora": 66,
+        "Quantidade_Usaram_Outras": 161
+    },
+    {
+        "Cidade": "Agudo",
+        "Quantidade_Local": 728,
+        "Quantidade_Fora": 245,
+        "Quantidade_Usaram_Outras": 1041
+    },
+    {
+        "Cidade": "Ajuricaba",
+        "Quantidade_Local": 82,
+        "Quantidade_Fora": 76,
+        "Quantidade_Usaram_Outras": 322
+    },
+    {
+        "Cidade": "Alecrim",
+        "Quantidade_Local": 227,
+        "Quantidade_Fora": 30,
+        "Quantidade_Usaram_Outras": 352
+    },
+    {
+        "Cidade": "Alegrete",
+        "Quantidade_Local": 3338,
+        "Quantidade_Fora": 51,
+        "Quantidade_Usaram_Outras": 737
+    },
+    {
+        "Cidade": "Alegria",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 288
+    },
+    {
+        "Cidade": "Almirante Tamandaré do Sul",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 101
+    },
+    {
+        "Cidade": "Alpestre",
+        "Quantidade_Local": 498,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 367
+    },
+    {
+        "Cidade": "Alto Alegre",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 144
+    },
+    {
+        "Cidade": "Alto Feliz",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 170
+    },
+    {
+        "Cidade": "Alvorada",
+        "Quantidade_Local": 16892,
+        "Quantidade_Fora": 1528,
+        "Quantidade_Usaram_Outras": 29824
+    },
+    {
+        "Cidade": "Amaral Ferrador",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 66
+    },
+    {
+        "Cidade": "Ametista do Sul",
+        "Quantidade_Local": 210,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 669
+    },
+    {
+        "Cidade": "André da Rocha",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 87
+    },
+    {
+        "Cidade": "Anta Gorda",
+        "Quantidade_Local": 255,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 146
+    },
+    {
+        "Cidade": "Antônio Prado",
+        "Quantidade_Local": 674,
+        "Quantidade_Fora": 274,
+        "Quantidade_Usaram_Outras": 255
+    },
+    {
+        "Cidade": "Arambaré",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 273
+    },
+    {
+        "Cidade": "Araricá",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 343
+    },
+    {
+        "Cidade": "Aratiba",
+        "Quantidade_Local": 328,
+        "Quantidade_Fora": 31,
+        "Quantidade_Usaram_Outras": 98
+    },
+    {
+        "Cidade": "Arroio Grande",
+        "Quantidade_Local": 433,
+        "Quantidade_Fora": 6,
+        "Quantidade_Usaram_Outras": 533
+    },
+    {
+        "Cidade": "Arroio do Meio",
+        "Quantidade_Local": 775,
+        "Quantidade_Fora": 956,
+        "Quantidade_Usaram_Outras": 405
+    },
+    {
+        "Cidade": "Arroio do Padre",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 92
+    },
+    {
+        "Cidade": "Arroio do Sal",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 745
+    },
+    {
+        "Cidade": "Arroio do Tigre",
+        "Quantidade_Local": 458,
+        "Quantidade_Fora": 157,
+        "Quantidade_Usaram_Outras": 379
+    },
+    {
+        "Cidade": "Arroio dos Ratos",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 1677
+    },
+    {
+        "Cidade": "Arvorezinha",
+        "Quantidade_Local": 393,
+        "Quantidade_Fora": 129,
+        "Quantidade_Usaram_Outras": 555
+    },
+    {
+        "Cidade": "Augusto Pestana",
+        "Quantidade_Local": 73,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 312
+    },
+    {
+        "Cidade": "Bagé",
+        "Quantidade_Local": 7912,
+        "Quantidade_Fora": 2017,
+        "Quantidade_Usaram_Outras": 734
+    },
+    {
+        "Cidade": "Balneário Pinhal",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 653
+    },
+    {
+        "Cidade": "Barra Funda",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 214
+    },
+    {
+        "Cidade": "Barra do Guarita",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 291
+    },
+    {
+        "Cidade": "Barra do Quaraí",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 72
+    },
+    {
+        "Cidade": "Barra do Ribeiro",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 653
+    },
+    {
+        "Cidade": "Barra do Rio Azul",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 32
+    },
+    {
+        "Cidade": "Barracão",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 574
+    },
+    {
+        "Cidade": "Barros Cassal",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 836
+    },
+    {
+        "Cidade": "Barão",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 161
+    },
+    {
+        "Cidade": "Barão de Cotegipe",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 395
+    },
+    {
+        "Cidade": "Barão do Triunfo",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 888
+    },
+    {
+        "Cidade": "Benjamin Constant do Sul",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 229
+    },
+    {
+        "Cidade": "Bento Gonçalves",
+        "Quantidade_Local": 5771,
+        "Quantidade_Fora": 1782,
+        "Quantidade_Usaram_Outras": 923
+    },
+    {
+        "Cidade": "Boa Vista das Missões",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 157
+    },
+    {
+        "Cidade": "Boa Vista do Buricá",
+        "Quantidade_Local": 209,
+        "Quantidade_Fora": 93,
+        "Quantidade_Usaram_Outras": 90
+    },
+    {
+        "Cidade": "Boa Vista do Cadeado",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 58
+    },
+    {
+        "Cidade": "Boa Vista do Incra",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 73
+    },
+    {
+        "Cidade": "Boa Vista do Sul",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 159
+    },
+    {
+        "Cidade": "Bom Jesus",
+        "Quantidade_Local": 1525,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 2735
+    },
+    {
+        "Cidade": "Bom Princípio",
+        "Quantidade_Local": 260,
+        "Quantidade_Fora": 50,
+        "Quantidade_Usaram_Outras": 313
+    },
+    {
+        "Cidade": "Bom Progresso",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 93
+    },
+    {
+        "Cidade": "Bom Retiro do Sul",
+        "Quantidade_Local": 468,
+        "Quantidade_Fora": 296,
+        "Quantidade_Usaram_Outras": 531
+    },
+    {
+        "Cidade": "Boqueirão do Leão",
+        "Quantidade_Local": 142,
+        "Quantidade_Fora": 13,
+        "Quantidade_Usaram_Outras": 215
+    },
+    {
+        "Cidade": "Bossoroca",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 108
+    },
+    {
+        "Cidade": "Bozano",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 165
+    },
+    {
+        "Cidade": "Braga",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 174
+    },
+    {
+        "Cidade": "Brochier",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 351
+    },
+    {
+        "Cidade": "Butiá",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 1697
+    },
+    {
+        "Cidade": "Cacequi",
+        "Quantidade_Local": 428,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 522
+    },
+    {
+        "Cidade": "Cachoeira do Sul",
+        "Quantidade_Local": 6000,
+        "Quantidade_Fora": 2632,
+        "Quantidade_Usaram_Outras": 939
+    },
+    {
+        "Cidade": "Cachoeirinha",
+        "Quantidade_Local": 24732,
+        "Quantidade_Fora": 1428,
+        "Quantidade_Usaram_Outras": 22416
+    },
+    {
+        "Cidade": "Cacique Doble",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 455
+    },
+    {
+        "Cidade": "Caibaté",
+        "Quantidade_Local": 77,
+        "Quantidade_Fora": 53,
+        "Quantidade_Usaram_Outras": 65
+    },
+    {
+        "Cidade": "Caiçara",
+        "Quantidade_Local": 728,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 400
+    },
+    {
+        "Cidade": "Camaquã",
+        "Quantidade_Local": 2436,
+        "Quantidade_Fora": 2248,
+        "Quantidade_Usaram_Outras": 2194
+    },
+    {
+        "Cidade": "Camargo",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 244
+    },
+    {
+        "Cidade": "Cambará do Sul",
+        "Quantidade_Local": 36,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 246
+    },
+    {
+        "Cidade": "Campestre da Serra",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 143
+    },
+    {
+        "Cidade": "Campina das Missões",
+        "Quantidade_Local": 345,
+        "Quantidade_Fora": 23,
+        "Quantidade_Usaram_Outras": 245
+    },
+    {
+        "Cidade": "Campinas do Sul",
+        "Quantidade_Local": 74,
+        "Quantidade_Fora": 16,
+        "Quantidade_Usaram_Outras": 283
+    },
+    {
+        "Cidade": "Campo Bom",
+        "Quantidade_Local": 2557,
+        "Quantidade_Fora": 629,
+        "Quantidade_Usaram_Outras": 1519
+    },
+    {
+        "Cidade": "Campo Novo",
+        "Quantidade_Local": 126,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 144
+    },
+    {
+        "Cidade": "Campos Borges",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 143
+    },
+    {
+        "Cidade": "Candelária",
+        "Quantidade_Local": 1173,
+        "Quantidade_Fora": 401,
+        "Quantidade_Usaram_Outras": 1109
+    },
+    {
+        "Cidade": "Candiota",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 748
+    },
+    {
+        "Cidade": "Canela",
+        "Quantidade_Local": 1228,
+        "Quantidade_Fora": 24,
+        "Quantidade_Usaram_Outras": 1123
+    },
+    {
+        "Cidade": "Canguçu",
+        "Quantidade_Local": 1603,
+        "Quantidade_Fora": 252,
+        "Quantidade_Usaram_Outras": 573
+    },
+    {
+        "Cidade": "Canoas",
+        "Quantidade_Local": 27994,
+        "Quantidade_Fora": 10674,
+        "Quantidade_Usaram_Outras": 3567
+    },
+    {
+        "Cidade": "Canudos do Vale",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 81
+    },
+    {
+        "Cidade": "Capela de Santana",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 818
+    },
+    {
+        "Cidade": "Capitão",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 355
+    },
+    {
+        "Cidade": "Capivari do Sul",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 169
+    },
+    {
+        "Cidade": "Capão Bonito do Sul",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 273
+    },
+    {
+        "Cidade": "Capão da Canoa",
+        "Quantidade_Local": 3333,
+        "Quantidade_Fora": 1910,
+        "Quantidade_Usaram_Outras": 1879
+    },
+    {
+        "Cidade": "Capão do Cipó",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 162
+    },
+    {
+        "Cidade": "Capão do Leão",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 1359
+    },
+    {
+        "Cidade": "Carazinho",
+        "Quantidade_Local": 3252,
+        "Quantidade_Fora": 595,
+        "Quantidade_Usaram_Outras": 1325
+    },
+    {
+        "Cidade": "Caraá",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 655
+    },
+    {
+        "Cidade": "Carlos Barbosa",
+        "Quantidade_Local": 414,
+        "Quantidade_Fora": 5,
+        "Quantidade_Usaram_Outras": 427
+    },
+    {
+        "Cidade": "Carlos Gomes",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 122
+    },
+    {
+        "Cidade": "Casca",
+        "Quantidade_Local": 39,
+        "Quantidade_Fora": 201,
+        "Quantidade_Usaram_Outras": 477
+    },
+    {
+        "Cidade": "Caseiros",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 226
+    },
+    {
+        "Cidade": "Catuípe",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 223
+    },
+    {
+        "Cidade": "Caxias do Sul",
+        "Quantidade_Local": 25444,
+        "Quantidade_Fora": 7709,
+        "Quantidade_Usaram_Outras": 636
+    },
+    {
+        "Cidade": "Caçapava do Sul",
+        "Quantidade_Local": 878,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 1164
+    },
+    {
+        "Cidade": "Centenário",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 178
+    },
+    {
+        "Cidade": "Cerrito",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 202
+    },
+    {
+        "Cidade": "Cerro Branco",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 254
+    },
+    {
+        "Cidade": "Cerro Grande",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 225
+    },
+    {
+        "Cidade": "Cerro Largo",
+        "Quantidade_Local": 404,
+        "Quantidade_Fora": 164,
+        "Quantidade_Usaram_Outras": 231
+    },
+    {
+        "Cidade": "Chapada",
+        "Quantidade_Local": 371,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 500
+    },
+    {
+        "Cidade": "Charqueadas",
+        "Quantidade_Local": 789,
+        "Quantidade_Fora": 96,
+        "Quantidade_Usaram_Outras": 2355
+    },
+    {
+        "Cidade": "Charrua",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 222
+    },
+    {
+        "Cidade": "Chiapetta",
+        "Quantidade_Local": 18,
+        "Quantidade_Fora": 26,
+        "Quantidade_Usaram_Outras": 201
+    },
+    {
+        "Cidade": "Chuvisca",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 376
+    },
+    {
+        "Cidade": "Chuí",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 83
+    },
+    {
+        "Cidade": "Cidreira",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 1399
+    },
+    {
+        "Cidade": "Ciríaco",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 686
+    },
+    {
+        "Cidade": "Colinas",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 220
+    },
+    {
+        "Cidade": "Colorado",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 92
+    },
+    {
+        "Cidade": "Condor",
+        "Quantidade_Local": 260,
+        "Quantidade_Fora": 9,
+        "Quantidade_Usaram_Outras": 212
+    },
+    {
+        "Cidade": "Constantina",
+        "Quantidade_Local": 244,
+        "Quantidade_Fora": 36,
+        "Quantidade_Usaram_Outras": 522
+    },
+    {
+        "Cidade": "Coqueiro Baixo",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 128
+    },
+    {
+        "Cidade": "Coqueiros do Sul",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 213
+    },
+    {
+        "Cidade": "Coronel Barros",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 232
+    },
+    {
+        "Cidade": "Coronel Bicaco",
+        "Quantidade_Local": 91,
+        "Quantidade_Fora": 7,
+        "Quantidade_Usaram_Outras": 414
+    },
+    {
+        "Cidade": "Coronel Pilar",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 177
+    },
+    {
+        "Cidade": "Cotiporã",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 161
+    },
+    {
+        "Cidade": "Coxilha",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 534
+    },
+    {
+        "Cidade": "Crissiumal",
+        "Quantidade_Local": 370,
+        "Quantidade_Fora": 171,
+        "Quantidade_Usaram_Outras": 356
+    },
+    {
+        "Cidade": "Cristal",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 343
+    },
+    {
+        "Cidade": "Cristal do Sul",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 270
+    },
+    {
+        "Cidade": "Cruz Alta",
+        "Quantidade_Local": 1501,
+        "Quantidade_Fora": 588,
+        "Quantidade_Usaram_Outras": 787
+    },
+    {
+        "Cidade": "Cruzaltense",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 102
+    },
+    {
+        "Cidade": "Cruzeiro do Sul",
+        "Quantidade_Local": 1161,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 1860
+    },
+    {
+        "Cidade": "Cândido Godói",
+        "Quantidade_Local": 451,
+        "Quantidade_Fora": 37,
+        "Quantidade_Usaram_Outras": 104
+    },
+    {
+        "Cidade": "David Canabarro",
+        "Quantidade_Local": 112,
+        "Quantidade_Fora": 231,
+        "Quantidade_Usaram_Outras": 157
+    },
+    {
+        "Cidade": "Derrubadas",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 298
+    },
+    {
+        "Cidade": "Dezesseis de Novembro",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 63
+    },
+    {
+        "Cidade": "Dilermando de Aguiar",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 260
+    },
+    {
+        "Cidade": "Dois Irmãos",
+        "Quantidade_Local": 926,
+        "Quantidade_Fora": 164,
+        "Quantidade_Usaram_Outras": 632
+    },
+    {
+        "Cidade": "Dois Irmãos das Missões",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 197
+    },
+    {
+        "Cidade": "Dois Lajeados",
+        "Quantidade_Local": 107,
+        "Quantidade_Fora": 78,
+        "Quantidade_Usaram_Outras": 83
+    },
+    {
+        "Cidade": "Dom Feliciano",
+        "Quantidade_Local": 274,
+        "Quantidade_Fora": 21,
+        "Quantidade_Usaram_Outras": 526
+    },
+    {
+        "Cidade": "Dom Pedrito",
+        "Quantidade_Local": 1232,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 670
+    },
+    {
+        "Cidade": "Dom Pedro de Alcântara",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 223
+    },
+    {
+        "Cidade": "Dona Francisca",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 320
+    },
+    {
+        "Cidade": "Doutor Maurício Cardoso",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 111
+    },
+    {
+        "Cidade": "Doutor Ricardo",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 167
+    },
+    {
+        "Cidade": "Eldorado do Sul",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 3618
+    },
+    {
+        "Cidade": "Encantado",
+        "Quantidade_Local": 1563,
+        "Quantidade_Fora": 1269,
+        "Quantidade_Usaram_Outras": 537
+    },
+    {
+        "Cidade": "Encruzilhada do Sul",
+        "Quantidade_Local": 797,
+        "Quantidade_Fora": 429,
+        "Quantidade_Usaram_Outras": 427
+    },
+    {
+        "Cidade": "Engenho Velho",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 143
+    },
+    {
+        "Cidade": "Entre Rios do Sul",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 203
+    },
+    {
+        "Cidade": "Entre-Ijuís",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 357
+    },
+    {
+        "Cidade": "Erebango",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 174
+    },
+    {
+        "Cidade": "Erechim",
+        "Quantidade_Local": 5080,
+        "Quantidade_Fora": 5384,
+        "Quantidade_Usaram_Outras": 1052
+    },
+    {
+        "Cidade": "Ernestina",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 427
+    },
+    {
+        "Cidade": "Erval Grande",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 183
+    },
+    {
+        "Cidade": "Erval Seco",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 492
+    },
+    {
+        "Cidade": "Esmeralda",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 112
+    },
+    {
+        "Cidade": "Esperança do Sul",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 694
+    },
+    {
+        "Cidade": "Espumoso",
+        "Quantidade_Local": 257,
+        "Quantidade_Fora": 654,
+        "Quantidade_Usaram_Outras": 649
+    },
+    {
+        "Cidade": "Estação",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 282
+    },
+    {
+        "Cidade": "Esteio",
+        "Quantidade_Local": 5228,
+        "Quantidade_Fora": 1237,
+        "Quantidade_Usaram_Outras": 2371
+    },
+    {
+        "Cidade": "Estrela",
+        "Quantidade_Local": 1723,
+        "Quantidade_Fora": 3296,
+        "Quantidade_Usaram_Outras": 598
+    },
+    {
+        "Cidade": "Estrela Velha",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 132
+    },
+    {
+        "Cidade": "Estância Velha",
+        "Quantidade_Local": 764,
+        "Quantidade_Fora": 9,
+        "Quantidade_Usaram_Outras": 2296
+    },
+    {
+        "Cidade": "Eugênio de Castro",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 103
+    },
+    {
+        "Cidade": "Fagundes Varela",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 111
+    },
+    {
+        "Cidade": "Farroupilha",
+        "Quantidade_Local": 3336,
+        "Quantidade_Fora": 1515,
+        "Quantidade_Usaram_Outras": 1357
+    },
+    {
+        "Cidade": "Faxinal do Soturno",
+        "Quantidade_Local": 336,
+        "Quantidade_Fora": 2074,
+        "Quantidade_Usaram_Outras": 282
+    },
+    {
+        "Cidade": "Faxinalzinho",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 168
+    },
+    {
+        "Cidade": "Fazenda Vilanova",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 410
+    },
+    {
+        "Cidade": "Feliz",
+        "Quantidade_Local": 191,
+        "Quantidade_Fora": 3,
+        "Quantidade_Usaram_Outras": 330
+    },
+    {
+        "Cidade": "Flores da Cunha",
+        "Quantidade_Local": 264,
+        "Quantidade_Fora": 10,
+        "Quantidade_Usaram_Outras": 366
+    },
+    {
+        "Cidade": "Floriano Peixoto",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 127
+    },
+    {
+        "Cidade": "Fontoura Xavier",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 922
+    },
+    {
+        "Cidade": "Formigueiro",
+        "Quantidade_Local": 33,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 403
+    },
+    {
+        "Cidade": "Forquetinha",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 371
+    },
+    {
+        "Cidade": "Fortaleza dos Valos",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 54
+    },
+    {
+        "Cidade": "Frederico Westphalen",
+        "Quantidade_Local": 1266,
+        "Quantidade_Fora": 714,
+        "Quantidade_Usaram_Outras": 786
+    },
+    {
+        "Cidade": "Garibaldi",
+        "Quantidade_Local": 1575,
+        "Quantidade_Fora": 451,
+        "Quantidade_Usaram_Outras": 422
+    },
+    {
+        "Cidade": "Garruchos",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 146
+    },
+    {
+        "Cidade": "Gaurama",
+        "Quantidade_Local": 143,
+        "Quantidade_Fora": 32,
+        "Quantidade_Usaram_Outras": 246
+    },
+    {
+        "Cidade": "General Câmara",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 533
+    },
+    {
+        "Cidade": "Gentil",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 134
+    },
+    {
+        "Cidade": "Getúlio Vargas",
+        "Quantidade_Local": 538,
+        "Quantidade_Fora": 495,
+        "Quantidade_Usaram_Outras": 537
+    },
+    {
+        "Cidade": "Giruá",
+        "Quantidade_Local": 440,
+        "Quantidade_Fora": 82,
+        "Quantidade_Usaram_Outras": 702
+    },
+    {
+        "Cidade": "Glorinha",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 585
+    },
+    {
+        "Cidade": "Gramado",
+        "Quantidade_Local": 1626,
+        "Quantidade_Fora": 289,
+        "Quantidade_Usaram_Outras": 746
+    },
+    {
+        "Cidade": "Gramado Xavier",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 357
+    },
+    {
+        "Cidade": "Gramado dos Loureiros",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 119
+    },
+    {
+        "Cidade": "Gravataí",
+        "Quantidade_Local": 5731,
+        "Quantidade_Fora": 1530,
+        "Quantidade_Usaram_Outras": 9402
+    },
+    {
+        "Cidade": "Guabiju",
+        "Quantidade_Local": 2,
+        "Quantidade_Fora": 6,
+        "Quantidade_Usaram_Outras": 125
+    },
+    {
+        "Cidade": "Guaporé",
+        "Quantidade_Local": 802,
+        "Quantidade_Fora": 5,
+        "Quantidade_Usaram_Outras": 266
+    },
+    {
+        "Cidade": "Guarani das Missões",
+        "Quantidade_Local": 163,
+        "Quantidade_Fora": 205,
+        "Quantidade_Usaram_Outras": 109
+    },
+    {
+        "Cidade": "Guaíba",
+        "Quantidade_Local": 1853,
+        "Quantidade_Fora": 560,
+        "Quantidade_Usaram_Outras": 6173
+    },
+    {
+        "Cidade": "Harmonia",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 189
+    },
+    {
+        "Cidade": "Herval",
+        "Quantidade_Local": 23,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 213
+    },
+    {
+        "Cidade": "Herveiras",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 138
+    },
+    {
+        "Cidade": "Horizontina",
+        "Quantidade_Local": 256,
+        "Quantidade_Fora": 103,
+        "Quantidade_Usaram_Outras": 356
+    },
+    {
+        "Cidade": "Hulha Negra",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 359
+    },
+    {
+        "Cidade": "Humaitá",
+        "Quantidade_Local": 80,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 410
+    },
+    {
+        "Cidade": "Ibarama",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 397
+    },
+    {
+        "Cidade": "Ibiaçá",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 265
+    },
+    {
+        "Cidade": "Ibiraiaras",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 275
+    },
+    {
+        "Cidade": "Ibirapuitã",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 490
+    },
+    {
+        "Cidade": "Ibirubá",
+        "Quantidade_Local": 815,
+        "Quantidade_Fora": 16,
+        "Quantidade_Usaram_Outras": 361
+    },
+    {
+        "Cidade": "Igrejinha",
+        "Quantidade_Local": 828,
+        "Quantidade_Fora": 543,
+        "Quantidade_Usaram_Outras": 1282
+    },
+    {
+        "Cidade": "Ijuí",
+        "Quantidade_Local": 4529,
+        "Quantidade_Fora": 6725,
+        "Quantidade_Usaram_Outras": 548
+    },
+    {
+        "Cidade": "Ilópolis",
+        "Quantidade_Local": 53,
+        "Quantidade_Fora": 10,
+        "Quantidade_Usaram_Outras": 97
+    },
+    {
+        "Cidade": "Imbé",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 2569
+    },
+    {
+        "Cidade": "Imigrante",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 421
+    },
+    {
+        "Cidade": "Independência",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 656
+    },
+    {
+        "Cidade": "Inhacorá",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 146
+    },
+    {
+        "Cidade": "Ipiranga do Sul",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 57
+    },
+    {
+        "Cidade": "Ipê",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 466
+    },
+    {
+        "Cidade": "Iraí",
+        "Quantidade_Local": 211,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 259
+    },
+    {
+        "Cidade": "Itaara",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 650
+    },
+    {
+        "Cidade": "Itacurubi",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 313
+    },
+    {
+        "Cidade": "Itapuca",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 157
+    },
+    {
+        "Cidade": "Itaqui",
+        "Quantidade_Local": 1326,
+        "Quantidade_Fora": 56,
+        "Quantidade_Usaram_Outras": 663
+    },
+    {
+        "Cidade": "Itati",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 178
+    },
+    {
+        "Cidade": "Itatiba do Sul",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 266
+    },
+    {
+        "Cidade": "Ivorá",
+        "Quantidade_Local": 14,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 119
+    },
+    {
+        "Cidade": "Ivoti",
+        "Quantidade_Local": 527,
+        "Quantidade_Fora": 349,
+        "Quantidade_Usaram_Outras": 534
+    },
+    {
+        "Cidade": "Jaboticaba",
+        "Quantidade_Local": 229,
+        "Quantidade_Fora": 82,
+        "Quantidade_Usaram_Outras": 429
+    },
+    {
+        "Cidade": "Jacuizinho",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 98
+    },
+    {
+        "Cidade": "Jacutinga",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 336
+    },
+    {
+        "Cidade": "Jaguari",
+        "Quantidade_Local": 585,
+        "Quantidade_Fora": 87,
+        "Quantidade_Usaram_Outras": 649
+    },
+    {
+        "Cidade": "Jaguarão",
+        "Quantidade_Local": 1008,
+        "Quantidade_Fora": 303,
+        "Quantidade_Usaram_Outras": 588
+    },
+    {
+        "Cidade": "Jaquirana",
+        "Quantidade_Local": 13,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 291
+    },
+    {
+        "Cidade": "Jari",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 368
+    },
+    {
+        "Cidade": "Jóia",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 417
+    },
+    {
+        "Cidade": "Júlio de Castilhos",
+        "Quantidade_Local": 150,
+        "Quantidade_Fora": 10,
+        "Quantidade_Usaram_Outras": 1187
+    },
+    {
+        "Cidade": "Lagoa Bonita do Sul",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 130
+    },
+    {
+        "Cidade": "Lagoa Vermelha",
+        "Quantidade_Local": 1178,
+        "Quantidade_Fora": 109,
+        "Quantidade_Usaram_Outras": 1050
+    },
+    {
+        "Cidade": "Lagoa dos Três Cantos",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 56
+    },
+    {
+        "Cidade": "Lagoão",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 504
+    },
+    {
+        "Cidade": "Lajeado",
+        "Quantidade_Local": 17784,
+        "Quantidade_Fora": 7826,
+        "Quantidade_Usaram_Outras": 1648
+    },
+    {
+        "Cidade": "Lajeado do Bugre",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 76
+    },
+    {
+        "Cidade": "Lavras do Sul",
+        "Quantidade_Local": 75,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 340
+    },
+    {
+        "Cidade": "Liberato Salzano",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 223
+    },
+    {
+        "Cidade": "Lindolfo Collor",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 484
+    },
+    {
+        "Cidade": "Linha Nova",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 52
+    },
+    {
+        "Cidade": "Machadinho",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 499
+    },
+    {
+        "Cidade": "Mampituba",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 115
+    },
+    {
+        "Cidade": "Manoel Viana",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 90
+    },
+    {
+        "Cidade": "Maquiné",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 602
+    },
+    {
+        "Cidade": "Maratá",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 277
+    },
+    {
+        "Cidade": "Marau",
+        "Quantidade_Local": 4440,
+        "Quantidade_Fora": 710,
+        "Quantidade_Usaram_Outras": 3124
+    },
+    {
+        "Cidade": "Marcelino Ramos",
+        "Quantidade_Local": 71,
+        "Quantidade_Fora": 34,
+        "Quantidade_Usaram_Outras": 314
+    },
+    {
+        "Cidade": "Mariana Pimentel",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 196
+    },
+    {
+        "Cidade": "Mariano Moro",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 215
+    },
+    {
+        "Cidade": "Marques de Souza",
+        "Quantidade_Local": 308,
+        "Quantidade_Fora": 213,
+        "Quantidade_Usaram_Outras": 211
+    },
+    {
+        "Cidade": "Mata",
+        "Quantidade_Local": 29,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 336
+    },
+    {
+        "Cidade": "Mato Castelhano",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 188
+    },
+    {
+        "Cidade": "Mato Leitão",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 199
+    },
+    {
+        "Cidade": "Mato Queimado",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 134
+    },
+    {
+        "Cidade": "Maximiliano de Almeida",
+        "Quantidade_Local": 363,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 448
+    },
+    {
+        "Cidade": "Maçambará",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 550
+    },
+    {
+        "Cidade": "Minas do Leão",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 1201
+    },
+    {
+        "Cidade": "Miraguaí",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 295
+    },
+    {
+        "Cidade": "Montauri",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 210
+    },
+    {
+        "Cidade": "Monte Alegre dos Campos",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 371
+    },
+    {
+        "Cidade": "Monte Belo do Sul",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 93
+    },
+    {
+        "Cidade": "Montenegro",
+        "Quantidade_Local": 2211,
+        "Quantidade_Fora": 2788,
+        "Quantidade_Usaram_Outras": 941
+    },
+    {
+        "Cidade": "Mormaço",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 273
+    },
+    {
+        "Cidade": "Morrinhos do Sul",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 129
+    },
+    {
+        "Cidade": "Morro Redondo",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 136
+    },
+    {
+        "Cidade": "Morro Reuter",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 447
+    },
+    {
+        "Cidade": "Mostardas",
+        "Quantidade_Local": 22,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 484
+    },
+    {
+        "Cidade": "Muitos Capões",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 258
+    },
+    {
+        "Cidade": "Muliterno",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 409
+    },
+    {
+        "Cidade": "Muçum",
+        "Quantidade_Local": 192,
+        "Quantidade_Fora": 17,
+        "Quantidade_Usaram_Outras": 239
+    },
+    {
+        "Cidade": "Nicolau Vergueiro",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 237
+    },
+    {
+        "Cidade": "Nonoai",
+        "Quantidade_Local": 528,
+        "Quantidade_Fora": 531,
+        "Quantidade_Usaram_Outras": 423
+    },
+    {
+        "Cidade": "Nova Alvorada",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 147
+    },
+    {
+        "Cidade": "Nova Araçá",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 283
+    },
+    {
+        "Cidade": "Nova Bassano",
+        "Quantidade_Local": 497,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 300
+    },
+    {
+        "Cidade": "Nova Boa Vista",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 122
+    },
+    {
+        "Cidade": "Nova Bréscia",
+        "Quantidade_Local": 214,
+        "Quantidade_Fora": 136,
+        "Quantidade_Usaram_Outras": 179
+    },
+    {
+        "Cidade": "Nova Candelária",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 301
+    },
+    {
+        "Cidade": "Nova Esperança do Sul",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 329
+    },
+    {
+        "Cidade": "Nova Hartz",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 974
+    },
+    {
+        "Cidade": "Nova Palma",
+        "Quantidade_Local": 172,
+        "Quantidade_Fora": 155,
+        "Quantidade_Usaram_Outras": 378
+    },
+    {
+        "Cidade": "Nova Petrópolis",
+        "Quantidade_Local": 475,
+        "Quantidade_Fora": 240,
+        "Quantidade_Usaram_Outras": 559
+    },
+    {
+        "Cidade": "Nova Prata",
+        "Quantidade_Local": 817,
+        "Quantidade_Fora": 377,
+        "Quantidade_Usaram_Outras": 293
+    },
+    {
+        "Cidade": "Nova Pádua",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 12
+    },
+    {
+        "Cidade": "Nova Ramada",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 165
+    },
+    {
+        "Cidade": "Nova Roma do Sul",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 184
+    },
+    {
+        "Cidade": "Nova Santa Rita",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 3886
+    },
+    {
+        "Cidade": "Novo Barreiro",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 314
+    },
+    {
+        "Cidade": "Novo Cabrais",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 385
+    },
+    {
+        "Cidade": "Novo Hamburgo",
+        "Quantidade_Local": 11670,
+        "Quantidade_Fora": 2861,
+        "Quantidade_Usaram_Outras": 3399
+    },
+    {
+        "Cidade": "Novo Machado",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 298
+    },
+    {
+        "Cidade": "Novo Tiradentes",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 184
+    },
+    {
+        "Cidade": "Novo Xingu",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 134
+    },
+    {
+        "Cidade": "Não-Me-Toque",
+        "Quantidade_Local": 539,
+        "Quantidade_Fora": 242,
+        "Quantidade_Usaram_Outras": 477
+    },
+    {
+        "Cidade": "Osório",
+        "Quantidade_Local": 1411,
+        "Quantidade_Fora": 1472,
+        "Quantidade_Usaram_Outras": 1751
+    },
+    {
+        "Cidade": "Paim Filho",
+        "Quantidade_Local": 130,
+        "Quantidade_Fora": 47,
+        "Quantidade_Usaram_Outras": 308
+    },
+    {
+        "Cidade": "Palmares do Sul",
+        "Quantidade_Local": 165,
+        "Quantidade_Fora": 74,
+        "Quantidade_Usaram_Outras": 622
+    },
+    {
+        "Cidade": "Palmeira das Missões",
+        "Quantidade_Local": 1078,
+        "Quantidade_Fora": 1275,
+        "Quantidade_Usaram_Outras": 685
+    },
+    {
+        "Cidade": "Palmitinho",
+        "Quantidade_Local": 410,
+        "Quantidade_Fora": 268,
+        "Quantidade_Usaram_Outras": 779
+    },
+    {
+        "Cidade": "Panambi",
+        "Quantidade_Local": 1019,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 506
+    },
+    {
+        "Cidade": "Pantano Grande",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 654
+    },
+    {
+        "Cidade": "Paraí",
+        "Quantidade_Local": 73,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 140
+    },
+    {
+        "Cidade": "Paraíso do Sul",
+        "Quantidade_Local": 60,
+        "Quantidade_Fora": 6,
+        "Quantidade_Usaram_Outras": 433
+    },
+    {
+        "Cidade": "Pareci Novo",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 325
+    },
+    {
+        "Cidade": "Parobé",
+        "Quantidade_Local": 3117,
+        "Quantidade_Fora": 2582,
+        "Quantidade_Usaram_Outras": 1259
+    },
+    {
+        "Cidade": "Passa Sete",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 235
+    },
+    {
+        "Cidade": "Passo Fundo",
+        "Quantidade_Local": 23589,
+        "Quantidade_Fora": 28358,
+        "Quantidade_Usaram_Outras": 527
+    },
+    {
+        "Cidade": "Passo do Sobrado",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 350
+    },
+    {
+        "Cidade": "Paulo Bento",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 117
+    },
+    {
+        "Cidade": "Paverama",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 430
+    },
+    {
+        "Cidade": "Pedras Altas",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 56
+    },
+    {
+        "Cidade": "Pedro Osório",
+        "Quantidade_Local": 165,
+        "Quantidade_Fora": 77,
+        "Quantidade_Usaram_Outras": 183
+    },
+    {
+        "Cidade": "Pejuçara",
+        "Quantidade_Local": 20,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 148
+    },
+    {
+        "Cidade": "Pelotas",
+        "Quantidade_Local": 10658,
+        "Quantidade_Fora": 4572,
+        "Quantidade_Usaram_Outras": 1139
+    },
+    {
+        "Cidade": "Picada Café",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 379
+    },
+    {
+        "Cidade": "Pinhal",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 376
+    },
+    {
+        "Cidade": "Pinhal Grande",
+        "Quantidade_Local": 11,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 326
+    },
+    {
+        "Cidade": "Pinhal da Serra",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 140
+    },
+    {
+        "Cidade": "Pinheirinho do Vale",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 501
+    },
+    {
+        "Cidade": "Pinheiro Machado",
+        "Quantidade_Local": 193,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 360
+    },
+    {
+        "Cidade": "Pirapó",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 108
+    },
+    {
+        "Cidade": "Piratini",
+        "Quantidade_Local": 921,
+        "Quantidade_Fora": 262,
+        "Quantidade_Usaram_Outras": 678
+    },
+    {
+        "Cidade": "Planalto",
+        "Quantidade_Local": 6976,
+        "Quantidade_Fora": 200,
+        "Quantidade_Usaram_Outras": 816
+    },
+    {
+        "Cidade": "Ponte Preta",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 104
+    },
+    {
+        "Cidade": "Pontão",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 639
+    },
+    {
+        "Cidade": "Porto Alegre",
+        "Quantidade_Local": 130260,
+        "Quantidade_Fora": 133859,
+        "Quantidade_Usaram_Outras": 965
+    },
+    {
+        "Cidade": "Porto Lucena",
+        "Quantidade_Local": 170,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 225
+    },
+    {
+        "Cidade": "Porto Mauá",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 6
+    },
+    {
+        "Cidade": "Porto Vera Cruz",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 103
+    },
+    {
+        "Cidade": "Porto Xavier",
+        "Quantidade_Local": 80,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 106
+    },
+    {
+        "Cidade": "Portão",
+        "Quantidade_Local": 762,
+        "Quantidade_Fora": 272,
+        "Quantidade_Usaram_Outras": 1785
+    },
+    {
+        "Cidade": "Pouso Novo",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 603
+    },
+    {
+        "Cidade": "Poço das Antas",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 84
+    },
+    {
+        "Cidade": "Presidente Lucena",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 116
+    },
+    {
+        "Cidade": "Progresso",
+        "Quantidade_Local": 467,
+        "Quantidade_Fora": 80,
+        "Quantidade_Usaram_Outras": 446
+    },
+    {
+        "Cidade": "Protásio Alves",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 133
+    },
+    {
+        "Cidade": "Putinga",
+        "Quantidade_Local": 184,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 80
+    },
+    {
+        "Cidade": "Quaraí",
+        "Quantidade_Local": 989,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 341
+    },
+    {
+        "Cidade": "Quatro Irmãos",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 148
+    },
+    {
+        "Cidade": "Quevedos",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 137
+    },
+    {
+        "Cidade": "Quinze de Novembro",
+        "Quantidade_Local": 129,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 21
+    },
+    {
+        "Cidade": "Redentora",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 910
+    },
+    {
+        "Cidade": "Relvado",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 192
+    },
+    {
+        "Cidade": "Restinga Sêca",
+        "Quantidade_Local": 775,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 593
+    },
+    {
+        "Cidade": "Rio Grande",
+        "Quantidade_Local": 7746,
+        "Quantidade_Fora": 1965,
+        "Quantidade_Usaram_Outras": 711
+    },
+    {
+        "Cidade": "Rio Pardo",
+        "Quantidade_Local": 1619,
+        "Quantidade_Fora": 1428,
+        "Quantidade_Usaram_Outras": 397
+    },
+    {
+        "Cidade": "Rio dos Índios",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 278
+    },
+    {
+        "Cidade": "Riozinho",
+        "Quantidade_Local": 49,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 145
+    },
+    {
+        "Cidade": "Roca Sales",
+        "Quantidade_Local": 38,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 525
+    },
+    {
+        "Cidade": "Rodeio Bonito",
+        "Quantidade_Local": 338,
+        "Quantidade_Fora": 1400,
+        "Quantidade_Usaram_Outras": 168
+    },
+    {
+        "Cidade": "Rolador",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 75
+    },
+    {
+        "Cidade": "Rolante",
+        "Quantidade_Local": 764,
+        "Quantidade_Fora": 479,
+        "Quantidade_Usaram_Outras": 1503
+    },
+    {
+        "Cidade": "Ronda Alta",
+        "Quantidade_Local": 520,
+        "Quantidade_Fora": 564,
+        "Quantidade_Usaram_Outras": 342
+    },
+    {
+        "Cidade": "Rondinha",
+        "Quantidade_Local": 94,
+        "Quantidade_Fora": 8,
+        "Quantidade_Usaram_Outras": 147
+    },
+    {
+        "Cidade": "Roque Gonzales",
+        "Quantidade_Local": 94,
+        "Quantidade_Fora": 8,
+        "Quantidade_Usaram_Outras": 173
+    },
+    {
+        "Cidade": "Rosário do Sul",
+        "Quantidade_Local": 1784,
+        "Quantidade_Fora": 199,
+        "Quantidade_Usaram_Outras": 734
+    },
+    {
+        "Cidade": "Sagrada Família",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 250
+    },
+    {
+        "Cidade": "Saldanha Marinho",
+        "Quantidade_Local": 37,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 110
+    },
+    {
+        "Cidade": "Salto do Jacuí",
+        "Quantidade_Local": 145,
+        "Quantidade_Fora": 23,
+        "Quantidade_Usaram_Outras": 183
+    },
+    {
+        "Cidade": "Salvador das Missões",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 184
+    },
+    {
+        "Cidade": "Salvador do Sul",
+        "Quantidade_Local": 20,
+        "Quantidade_Fora": 14,
+        "Quantidade_Usaram_Outras": 343
+    },
+    {
+        "Cidade": "Sananduva",
+        "Quantidade_Local": 989,
+        "Quantidade_Fora": 962,
+        "Quantidade_Usaram_Outras": 549
+    },
+    {
+        "Cidade": "Sant'Ana do Livramento",
+        "Quantidade_Local": 2997,
+        "Quantidade_Fora": 40,
+        "Quantidade_Usaram_Outras": 346
+    },
+    {
+        "Cidade": "Santa Bárbara do Sul",
+        "Quantidade_Local": 270,
+        "Quantidade_Fora": 65,
+        "Quantidade_Usaram_Outras": 166
+    },
+    {
+        "Cidade": "Santa Cecília do Sul",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 130
+    },
+    {
+        "Cidade": "Santa Clara do Sul",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 993
+    },
+    {
+        "Cidade": "Santa Cruz do Sul",
+        "Quantidade_Local": 8360,
+        "Quantidade_Fora": 5776,
+        "Quantidade_Usaram_Outras": 199
+    },
+    {
+        "Cidade": "Santa Margarida do Sul",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 335
+    },
+    {
+        "Cidade": "Santa Maria",
+        "Quantidade_Local": 38272,
+        "Quantidade_Fora": 15146,
+        "Quantidade_Usaram_Outras": 2036
+    },
+    {
+        "Cidade": "Santa Maria do Herval",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 183
+    },
+    {
+        "Cidade": "Santa Rosa",
+        "Quantidade_Local": 6575,
+        "Quantidade_Fora": 3949,
+        "Quantidade_Usaram_Outras": 413
+    },
+    {
+        "Cidade": "Santa Tereza",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 54
+    },
+    {
+        "Cidade": "Santa Vitória do Palmar",
+        "Quantidade_Local": 730,
+        "Quantidade_Fora": 62,
+        "Quantidade_Usaram_Outras": 438
+    },
+    {
+        "Cidade": "Santana da Boa Vista",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 305
+    },
+    {
+        "Cidade": "Santiago",
+        "Quantidade_Local": 2005,
+        "Quantidade_Fora": 823,
+        "Quantidade_Usaram_Outras": 487
+    },
+    {
+        "Cidade": "Santo Antônio da Patrulha",
+        "Quantidade_Local": 895,
+        "Quantidade_Fora": 303,
+        "Quantidade_Usaram_Outras": 2888
+    },
+    {
+        "Cidade": "Santo Antônio das Missões",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 264
+    },
+    {
+        "Cidade": "Santo Antônio do Palma",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 212
+    },
+    {
+        "Cidade": "Santo Antônio do Planalto",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 249
+    },
+    {
+        "Cidade": "Santo Augusto",
+        "Quantidade_Local": 598,
+        "Quantidade_Fora": 1040,
+        "Quantidade_Usaram_Outras": 385
+    },
+    {
+        "Cidade": "Santo Cristo",
+        "Quantidade_Local": 750,
+        "Quantidade_Fora": 188,
+        "Quantidade_Usaram_Outras": 476
+    },
+    {
+        "Cidade": "Santo Expedito do Sul",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 327
+    },
+    {
+        "Cidade": "Santo Ângelo",
+        "Quantidade_Local": 2495,
+        "Quantidade_Fora": 1685,
+        "Quantidade_Usaram_Outras": 308
+    },
+    {
+        "Cidade": "Sapiranga",
+        "Quantidade_Local": 3086,
+        "Quantidade_Fora": 1267,
+        "Quantidade_Usaram_Outras": 2280
+    },
+    {
+        "Cidade": "Sapucaia do Sul",
+        "Quantidade_Local": 4281,
+        "Quantidade_Fora": 479,
+        "Quantidade_Usaram_Outras": 3465
+    },
+    {
+        "Cidade": "Sarandi",
+        "Quantidade_Local": 1908,
+        "Quantidade_Fora": 740,
+        "Quantidade_Usaram_Outras": 1318
+    },
+    {
+        "Cidade": "Seberi",
+        "Quantidade_Local": 783,
+        "Quantidade_Fora": 308,
+        "Quantidade_Usaram_Outras": 279
+    },
+    {
+        "Cidade": "Sede Nova",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 178
+    },
+    {
+        "Cidade": "Segredo",
+        "Quantidade_Local": 82,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 499
+    },
+    {
+        "Cidade": "Selbach",
+        "Quantidade_Local": 60,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 139
+    },
+    {
+        "Cidade": "Senador Salgado Filho",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 157
+    },
+    {
+        "Cidade": "Sentinela do Sul",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 499
+    },
+    {
+        "Cidade": "Serafina Corrêa",
+        "Quantidade_Local": 542,
+        "Quantidade_Fora": 27,
+        "Quantidade_Usaram_Outras": 666
+    },
+    {
+        "Cidade": "Sertão",
+        "Quantidade_Local": 222,
+        "Quantidade_Fora": 10,
+        "Quantidade_Usaram_Outras": 527
+    },
+    {
+        "Cidade": "Sertão Santana",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 696
+    },
+    {
+        "Cidade": "Sete de Setembro",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 149
+    },
+    {
+        "Cidade": "Severiano de Almeida",
+        "Quantidade_Local": 84,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 130
+    },
+    {
+        "Cidade": "Silveira Martins",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 263
+    },
+    {
+        "Cidade": "Sinimbu",
+        "Quantidade_Local": 343,
+        "Quantidade_Fora": 105,
+        "Quantidade_Usaram_Outras": 403
+    },
+    {
+        "Cidade": "Sobradinho",
+        "Quantidade_Local": 1640,
+        "Quantidade_Fora": 344,
+        "Quantidade_Usaram_Outras": 934
+    },
+    {
+        "Cidade": "Soledade",
+        "Quantidade_Local": 5444,
+        "Quantidade_Fora": 1558,
+        "Quantidade_Usaram_Outras": 2164
+    },
+    {
+        "Cidade": "São Borja",
+        "Quantidade_Local": 4234,
+        "Quantidade_Fora": 674,
+        "Quantidade_Usaram_Outras": 546
+    },
+    {
+        "Cidade": "São Domingos do Sul",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 214
+    },
+    {
+        "Cidade": "São Francisco de Assis",
+        "Quantidade_Local": 458,
+        "Quantidade_Fora": 8,
+        "Quantidade_Usaram_Outras": 928
+    },
+    {
+        "Cidade": "São Francisco de Paula",
+        "Quantidade_Local": 2828,
+        "Quantidade_Fora": 6,
+        "Quantidade_Usaram_Outras": 1766
+    },
+    {
+        "Cidade": "São Gabriel",
+        "Quantidade_Local": 20324,
+        "Quantidade_Fora": 1144,
+        "Quantidade_Usaram_Outras": 1128
+    },
+    {
+        "Cidade": "São Jerônimo",
+        "Quantidade_Local": 2106,
+        "Quantidade_Fora": 6280,
+        "Quantidade_Usaram_Outras": 634
+    },
+    {
+        "Cidade": "São Jorge",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 91
+    },
+    {
+        "Cidade": "São José das Missões",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 104
+    },
+    {
+        "Cidade": "São José do Herval",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 209
+    },
+    {
+        "Cidade": "São José do Hortêncio",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 310
+    },
+    {
+        "Cidade": "São José do Inhacorá",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 121
+    },
+    {
+        "Cidade": "São José do Norte",
+        "Quantidade_Local": 513,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 829
+    },
+    {
+        "Cidade": "São José do Ouro",
+        "Quantidade_Local": 286,
+        "Quantidade_Fora": 665,
+        "Quantidade_Usaram_Outras": 336
+    },
+    {
+        "Cidade": "São José do Sul",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 161
+    },
+    {
+        "Cidade": "São José dos Ausentes",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 239
+    },
+    {
+        "Cidade": "São João da Urtiga",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 337
+    },
+    {
+        "Cidade": "São João do Polêsine",
+        "Quantidade_Local": 53,
+        "Quantidade_Fora": 293,
+        "Quantidade_Usaram_Outras": 167
+    },
+    {
+        "Cidade": "São Leopoldo",
+        "Quantidade_Local": 8974,
+        "Quantidade_Fora": 1746,
+        "Quantidade_Usaram_Outras": 2676
+    },
+    {
+        "Cidade": "São Lourenço do Sul",
+        "Quantidade_Local": 1399,
+        "Quantidade_Fora": 132,
+        "Quantidade_Usaram_Outras": 482
+    },
+    {
+        "Cidade": "São Luiz Gonzaga",
+        "Quantidade_Local": 1459,
+        "Quantidade_Fora": 750,
+        "Quantidade_Usaram_Outras": 547
+    },
+    {
+        "Cidade": "São Marcos",
+        "Quantidade_Local": 378,
+        "Quantidade_Fora": 8,
+        "Quantidade_Usaram_Outras": 606
+    },
+    {
+        "Cidade": "São Martinho",
+        "Quantidade_Local": 464,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 486
+    },
+    {
+        "Cidade": "São Martinho da Serra",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 416
+    },
+    {
+        "Cidade": "São Miguel das Missões",
+        "Quantidade_Local": 203,
+        "Quantidade_Fora": 36,
+        "Quantidade_Usaram_Outras": 167
+    },
+    {
+        "Cidade": "São Nicolau",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 248
+    },
+    {
+        "Cidade": "São Paulo das Missões",
+        "Quantidade_Local": 439,
+        "Quantidade_Fora": 58,
+        "Quantidade_Usaram_Outras": 149
+    },
+    {
+        "Cidade": "São Pedro da Serra",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 333
+    },
+    {
+        "Cidade": "São Pedro das Missões",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 198
+    },
+    {
+        "Cidade": "São Pedro do Butiá",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 139
+    },
+    {
+        "Cidade": "São Pedro do Sul",
+        "Quantidade_Local": 295,
+        "Quantidade_Fora": 206,
+        "Quantidade_Usaram_Outras": 1099
+    },
+    {
+        "Cidade": "São Sebastião do Caí",
+        "Quantidade_Local": 229,
+        "Quantidade_Fora": 39,
+        "Quantidade_Usaram_Outras": 814
+    },
+    {
+        "Cidade": "São Sepé",
+        "Quantidade_Local": 1319,
+        "Quantidade_Fora": 635,
+        "Quantidade_Usaram_Outras": 1484
+    },
+    {
+        "Cidade": "São Valentim",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 189
+    },
+    {
+        "Cidade": "São Valentim do Sul",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 162
+    },
+    {
+        "Cidade": "São Valério do Sul",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 121
+    },
+    {
+        "Cidade": "São Vendelino",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 83
+    },
+    {
+        "Cidade": "São Vicente do Sul",
+        "Quantidade_Local": 61,
+        "Quantidade_Fora": 2,
+        "Quantidade_Usaram_Outras": 805
+    },
+    {
+        "Cidade": "Sério",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 135
+    },
+    {
+        "Cidade": "Tabaí",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 138
+    },
+    {
+        "Cidade": "Tapejara",
+        "Quantidade_Local": 2620,
+        "Quantidade_Fora": 1526,
+        "Quantidade_Usaram_Outras": 1092
+    },
+    {
+        "Cidade": "Tapera",
+        "Quantidade_Local": 453,
+        "Quantidade_Fora": 109,
+        "Quantidade_Usaram_Outras": 516
+    },
+    {
+        "Cidade": "Tapes",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 1083
+    },
+    {
+        "Cidade": "Taquara",
+        "Quantidade_Local": 1181,
+        "Quantidade_Fora": 1925,
+        "Quantidade_Usaram_Outras": 1524
+    },
+    {
+        "Cidade": "Taquari",
+        "Quantidade_Local": 638,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 964
+    },
+    {
+        "Cidade": "Taquaruçu do Sul",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 110
+    },
+    {
+        "Cidade": "Tavares",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 942
+    },
+    {
+        "Cidade": "Tenente Portela",
+        "Quantidade_Local": 755,
+        "Quantidade_Fora": 4012,
+        "Quantidade_Usaram_Outras": 250
+    },
+    {
+        "Cidade": "Terra de Areia",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 813
+    },
+    {
+        "Cidade": "Teutônia",
+        "Quantidade_Local": 915,
+        "Quantidade_Fora": 895,
+        "Quantidade_Usaram_Outras": 1126
+    },
+    {
+        "Cidade": "Tio Hugo",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 357
+    },
+    {
+        "Cidade": "Tiradentes do Sul",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 321
+    },
+    {
+        "Cidade": "Toropi",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 275
+    },
+    {
+        "Cidade": "Torres",
+        "Quantidade_Local": 2438,
+        "Quantidade_Fora": 1802,
+        "Quantidade_Usaram_Outras": 1361
+    },
+    {
+        "Cidade": "Tramandaí",
+        "Quantidade_Local": 2725,
+        "Quantidade_Fora": 4895,
+        "Quantidade_Usaram_Outras": 2067
+    },
+    {
+        "Cidade": "Travesseiro",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 255
+    },
+    {
+        "Cidade": "Trindade do Sul",
+        "Quantidade_Local": 439,
+        "Quantidade_Fora": 42,
+        "Quantidade_Usaram_Outras": 404
+    },
+    {
+        "Cidade": "Triunfo",
+        "Quantidade_Local": 8496,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 3579
+    },
+    {
+        "Cidade": "Três Arroios",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 145
+    },
+    {
+        "Cidade": "Três Cachoeiras",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 925
+    },
+    {
+        "Cidade": "Três Coroas",
+        "Quantidade_Local": 739,
+        "Quantidade_Fora": 8,
+        "Quantidade_Usaram_Outras": 1012
+    },
+    {
+        "Cidade": "Três Forquilhas",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 291
+    },
+    {
+        "Cidade": "Três Palmeiras",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 361
+    },
+    {
+        "Cidade": "Três Passos",
+        "Quantidade_Local": 1383,
+        "Quantidade_Fora": 1464,
+        "Quantidade_Usaram_Outras": 388
+    },
+    {
+        "Cidade": "Três de Maio",
+        "Quantidade_Local": 1168,
+        "Quantidade_Fora": 1013,
+        "Quantidade_Usaram_Outras": 423
+    },
+    {
+        "Cidade": "Tucunduva",
+        "Quantidade_Local": 272,
+        "Quantidade_Fora": 95,
+        "Quantidade_Usaram_Outras": 161
+    },
+    {
+        "Cidade": "Tunas",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 218
+    },
+    {
+        "Cidade": "Tupanci do Sul",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 116
+    },
+    {
+        "Cidade": "Tupanciretã",
+        "Quantidade_Local": 756,
+        "Quantidade_Fora": 5,
+        "Quantidade_Usaram_Outras": 966
+    },
+    {
+        "Cidade": "Tupandi",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 132
+    },
+    {
+        "Cidade": "Tuparendi",
+        "Quantidade_Local": 107,
+        "Quantidade_Fora": 6,
+        "Quantidade_Usaram_Outras": 261
+    },
+    {
+        "Cidade": "Turuçu",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 160
+    },
+    {
+        "Cidade": "Ubiretama",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 117
+    },
+    {
+        "Cidade": "Unistalda",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 200
+    },
+    {
+        "Cidade": "União da Serra",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 13
+    },
+    {
+        "Cidade": "Uruguaiana",
+        "Quantidade_Local": 4103,
+        "Quantidade_Fora": 495,
+        "Quantidade_Usaram_Outras": 826
+    },
+    {
+        "Cidade": "Vacaria",
+        "Quantidade_Local": 3180,
+        "Quantidade_Fora": 3138,
+        "Quantidade_Usaram_Outras": 1323
+    },
+    {
+        "Cidade": "Vale Real",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 138
+    },
+    {
+        "Cidade": "Vale Verde",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 95
+    },
+    {
+        "Cidade": "Vale do Sol",
+        "Quantidade_Local": 299,
+        "Quantidade_Fora": 99,
+        "Quantidade_Usaram_Outras": 385
+    },
+    {
+        "Cidade": "Vanini",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 143
+    },
+    {
+        "Cidade": "Venâncio Aires",
+        "Quantidade_Local": 1653,
+        "Quantidade_Fora": 231,
+        "Quantidade_Usaram_Outras": 830
+    },
+    {
+        "Cidade": "Vera Cruz",
+        "Quantidade_Local": 6208,
+        "Quantidade_Fora": 184,
+        "Quantidade_Usaram_Outras": 4916
+    },
+    {
+        "Cidade": "Veranópolis",
+        "Quantidade_Local": 1085,
+        "Quantidade_Fora": 498,
+        "Quantidade_Usaram_Outras": 387
+    },
+    {
+        "Cidade": "Vespasiano Corrêa",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 63
+    },
+    {
+        "Cidade": "Viadutos",
+        "Quantidade_Local": 96,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 157
+    },
+    {
+        "Cidade": "Viamão",
+        "Quantidade_Local": 5174,
+        "Quantidade_Fora": 1359,
+        "Quantidade_Usaram_Outras": 15676
+    },
+    {
+        "Cidade": "Vicente Dutra",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 160
+    },
+    {
+        "Cidade": "Victor Graeff",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 387
+    },
+    {
+        "Cidade": "Vila Flores",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 133
+    },
+    {
+        "Cidade": "Vila Lângaro",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 211
+    },
+    {
+        "Cidade": "Vila Maria",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 274
+    },
+    {
+        "Cidade": "Vila Nova do Sul",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 510
+    },
+    {
+        "Cidade": "Vista Alegre",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 212
+    },
+    {
+        "Cidade": "Vista Alegre do Prata",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 88
+    },
+    {
+        "Cidade": "Vista Gaúcha",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 154
+    },
+    {
+        "Cidade": "Vitória das Missões",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 138
+    },
+    {
+        "Cidade": "Westfália",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 325
+    },
+    {
+        "Cidade": "Água Santa",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 448
+    },
+    {
+        "Cidade": "Áurea",
+        "Quantidade_Local": 0,
+        "Quantidade_Fora": 0,
+        "Quantidade_Usaram_Outras": 186
+    }
+]
