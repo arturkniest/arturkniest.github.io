@@ -2,106 +2,110 @@
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
-  <title>Hospitais utilizados por pessoas de uma cidade</title>
+  <title>Cidades que usaram um Hospital</title>
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
   <style>
     body { font-family: Arial, sans-serif; margin: 20px; }
-    #cidade-search { width: 50%; padding: 8px; font-size: 16px; }
+    h1, h4 { text-align: center; }
+    input, #suggestions { width: 50%; padding: 10px; font-size: 16px; margin: 0 auto; display: block; }
     #suggestions {
-      border: 1px solid #ccc; max-height: 200px; overflow-y: auto;
-      width: 50%; background-color: #fff; position: absolute; z-index: 999;
+      border: 1px solid #ccc; background-color: #fff;
+      max-height: 200px; overflow-y: auto;
+      position: absolute; z-index: 999; left: 25%; right: 25%;
     }
     .suggestion-item { padding: 5px; cursor: pointer; }
     .suggestion-item:hover { background-color: #f0f0f0; }
     #mapa { width: 100%; height: 600px; margin-top: 20px; }
-    #hospitais-lista { margin-top: 20px; }
-    #hospitais-lista h4 { margin-bottom: 10px; }
+    #lista-cidades { margin-top: 20px; text-align: center; }
   </style>
 </head>
 <body>
 
-  <h2>Hospitais utilizados por pessoas de uma cidade</h2>
+<h1>Cidades que usaram um Hospital</h1>
+<input type="text" id="busca-hospital" placeholder="Digite o nome do hospital...">
+<div id="suggestions"></div>
 
-  <input type="text" id="cidade-search" placeholder="Digite o nome da cidade...">
-  <div id="suggestions"></div>
+<div id="mapa"></div>
+<div id="lista-cidades"></div>
 
-  <div id="mapa"></div>
+<script>
+let dadosJson = {};
 
-  <div id="hospitais-lista"></div>
+axios.get('hospitais_uso_por_cidade.json').then(response => {
+  dadosJson = response.data;
 
-  <script>
-    let jsonData = {};
+  const input = document.getElementById('busca-hospital');
+  const suggestionsBox = document.getElementById('suggestions');
 
-    axios.get('cidades_uso_por_hospital.json').then(response => {
-      jsonData = response.data;
-      const input = document.getElementById('cidade-search');
-      const suggestionsBox = document.getElementById('suggestions');
+  input.addEventListener('input', () => {
+    const query = input.value.toLowerCase();
+    suggestionsBox.innerHTML = '';
 
-      input.addEventListener('input', () => {
-        const query = input.value.toLowerCase();
+    if (query.length < 2) return;
+
+    const matches = Object.keys(dadosJson).filter(hospital =>
+      hospital.toLowerCase().includes(query)
+    );
+
+    matches.forEach(match => {
+      const item = document.createElement('div');
+      item.classList.add('suggestion-item');
+      item.textContent = match;
+      item.onclick = () => {
+        input.value = match;
         suggestionsBox.innerHTML = '';
-        if (query.length < 2) return;
-
-        const matches = Object.keys(jsonData).filter(cidade =>
-          cidade.toLowerCase().includes(query)
-        );
-
-        matches.forEach(match => {
-          const item = document.createElement('div');
-          item.classList.add('suggestion-item');
-          item.textContent = match;
-          item.onclick = () => {
-            input.value = match;
-            suggestionsBox.innerHTML = '';
-            renderMap(match, jsonData[match]);
-          };
-          suggestionsBox.appendChild(item);
-        });
-      });
-
-      document.addEventListener('click', (e) => {
-        if (!input.contains(e.target) && !suggestionsBox.contains(e.target)) {
-          suggestionsBox.innerHTML = '';
-        }
-      });
+        desenharMapa(match, dadosJson[match]);
+      };
+      suggestionsBox.appendChild(item);
     });
+  });
 
-    function renderMap(cidade_nome, data) {
-      const trace = {
-        type: "scattermapbox",
-        lat: data.map(h => h.latitude),
-        lon: data.map(h => h.longitude),
-        text: data.map(h => `${h.hospital} (${h.cidade_hospital}): ${h.quantidade} pessoas`),
-        marker: {
-          size: data.map(h => h.quantidade * 2),
-          color: data.map(h => h.quantidade),
-          colorscale: 'Viridis',
-          cmin: 1,
-          cmax: Math.max(...data.map(h => h.quantidade)),
-          colorbar: { title: 'Pessoas' }
-        },
-        mode: "markers"
-      };
-
-      const layout = {
-        mapbox: {
-          style: "carto-positron",
-          center: { lat: -30.0318, lon: -51.2065 },
-          zoom: 6
-        },
-        margin: { t: 50, b: 0 },
-        title: `Hospitais utilizados por pessoas de ${cidade_nome}`
-      };
-
-      Plotly.newPlot("mapa", [trace], layout, { responsive: true });
-
-      // Lista de hospitais
-      const lista = document.getElementById("hospitais-lista");
-      lista.innerHTML = `<h4>Hospitais utilizados por pessoas de <strong>${cidade_nome}</strong>:</h4>` +
-        data.map(h => `<div>${h.hospital} (Cidade: ${h.cidade_hospital}): ${h.quantidade} pessoas</div>`).join('');
+  document.addEventListener('click', (e) => {
+    if (!input.contains(e.target) && !suggestionsBox.contains(e.target)) {
+      suggestionsBox.innerHTML = '';
     }
-  </script>
+  });
+});
+
+function desenharMapa(nomeHospital, data) {
+  const cidades = data.cidades_que_usaram;
+  const figData = [{
+    type: 'scattermapbox',
+    lat: cidades.map(c => c.latitude),
+    lon: cidades.map(c => c.longitude),
+    text: cidades.map(c => `${c.cidade}: ${c.quantidade} pessoas`),
+    marker: {
+      size: cidades.map(c => Math.min(50, 5 + c.quantidade * 0.5)),
+      color: cidades.map(c => c.quantidade),
+      colorscale: 'Viridis',
+      showscale: true
+    },
+    hoverinfo: 'text'
+  }];
+
+  const layout = {
+    mapbox: {
+      style: 'carto-positron',
+      center: { lat: -30.03, lon: -51.20 },
+      zoom: 6
+    },
+    title: `Cidades que enviaram pessoas para o hospital: ${nomeHospital}`,
+    margin: { t: 40, b: 0, l: 0, r: 0 }
+  };
+
+  Plotly.newPlot('mapa', figData, layout);
+
+  const lista = document.getElementById("lista-cidades");
+  if (cidades.length === 0) {
+    lista.innerHTML = `<h4>Nenhuma cidade externa cadastrada para este hospital.</h4>`;
+    return;
+  }
+
+  lista.innerHTML = `<h4>Cidades que usaram o hospital ${nomeHospital}:</h4>` +
+    cidades.map(c => `<div>${c.cidade}: ${c.quantidade} pessoas</div>`).join('');
+}
+</script>
 
 </body>
 </html>
