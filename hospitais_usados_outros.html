@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Mapa de Internações por Hospital</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        #mapa {
+            width: 100%;
+            height: 600px;
+        }
+        #hospital-select {
+            width: 50%;
+            font-size: 16px;
+            padding: 5px;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Internações por Hospital (Cidades Diferentes)</h2>
+    <label for="hospital-select">Selecione um hospital:</label>
+    <select id="hospital-select">
+        <option value="">Carregando...</option>
+    </select>
+
+    <div id="mapa"></div>
+
+    <script>
+        let jsonData;
+
+        // Carregar o JSON
+        axios.get('hospitais_uso_por_cidade.json')
+            .then(response => {
+                jsonData = response.data;
+                const select = document.getElementById('hospital-select');
+                select.innerHTML = '<option value="">Selecione um hospital</option>';
+
+                // Popular dropdown
+                Object.keys(jsonData).forEach(hospital => {
+                    const option = document.createElement('option');
+                    option.value = hospital;
+                    option.text = hospital;
+                    select.appendChild(option);
+                });
+
+                select.addEventListener('change', () => {
+                    const selected = select.value;
+                    if (selected) {
+                        renderMap(jsonData[selected], selected);
+                    }
+                });
+            });
+
+        // Função para desenhar o mapa
+        function renderMap(data, hospital_nome) {
+            const cidades = data.cidades_que_usaram;
+
+            const trace = {
+                type: "scattermapbox",
+                lat: cidades.map(c => c.latitude),
+                lon: cidades.map(c => c.longitude),
+                text: cidades.map(c => `${c.cidade}: ${c.quantidade} pessoas`),
+                marker: {
+                    size: cidades.map(c => c.quantidade * 2),
+                    color: cidades.map(c => c.quantidade),
+                    colorscale: 'Viridis',
+                    cmin: 1,
+                    cmax: Math.max(...cidades.map(c => c.quantidade)),
+                    colorbar: { title: 'Pessoas' }
+                },
+                mode: "markers"
+            };
+
+            const layout = {
+                mapbox: {
+                    style: "carto-positron",
+                    center: {
+                        lat: -30.0318,
+                        lon: -51.2065
+                    },
+                    zoom: 6
+                },
+                margin: { t: 50, b: 0 },
+                title: `Cidades que enviaram pessoas para: ${hospital_nome}`
+            };
+
+            Plotly.newPlot("mapa", [trace], layout, {responsive: true});
+        }
+    </script>
+
+</body>
+</html>
